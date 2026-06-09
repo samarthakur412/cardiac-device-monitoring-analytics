@@ -6,10 +6,34 @@ This project simulates a healthcare SaaS analytics use case for cardiac device r
 
 The project was built using synthetic healthcare data to avoid privacy concerns while still creating a realistic analytics workflow.
 
-
 ## Dashboard Preview
 
 ![Executive Overview](dashboards/executive_overview.png)
+
+## Interactive Streamlit Dashboard
+
+This project also includes an interactive Streamlit dashboard for exploring cardiac device monitoring data.
+
+### Features
+
+- Sidebar filters for state, clinic, device type, severity, alert status, and date range
+- KPI cards for patients, devices, transmissions, alerts, open alerts, critical alerts, missed transmission rate, and average resolution time
+- Auto-generated executive summary
+- Interactive monthly trend charts using Plotly
+- Alert management worklist for high-priority alerts
+- Device risk scoring based on missed transmissions, critical alerts, open alerts, and low battery level
+- Clinic workload analysis
+- Downloadable filtered datasets
+
+### Run the App
+
+```bash
+streamlit run streamlit_app/app.py
+```
+
+## Streamlit Preview
+
+![Streamlit Executive Overview](streamlit_app/screenshots/streamlit_executive_overview.png)
 
 ## Business Problem
 
