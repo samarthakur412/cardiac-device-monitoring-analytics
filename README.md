@@ -9,7 +9,7 @@ The project was built using synthetic healthcare data to avoid privacy concerns 
 
 ## Dashboard Preview
 
-![Executive Overview](dashboards\executive_overview.png)
+![Executive Overview](dashboards/executive_overview.png)
 
 ## Business Problem
 
