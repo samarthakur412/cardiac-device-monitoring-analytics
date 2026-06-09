@@ -6,6 +6,11 @@ This project simulates a healthcare SaaS analytics use case for cardiac device r
 
 The project was built using synthetic healthcare data to avoid privacy concerns while still creating a realistic analytics workflow.
 
+
+## Dashboard Preview
+
+![Executive Overview](dashboards\executive_overview.png)
+
 ## Business Problem
 
 Cardiac care teams receive large volumes of remote transmissions and alerts from patients with implanted cardiac devices such as pacemakers, ICDs, CRT-D devices, and loop recorders.
@@ -30,6 +35,18 @@ This dashboard helps stakeholders answer questions such as:
 - PostgreSQL
 - SQL
 - Power BI
+
+## Key Skills Demonstrated
+
+- SQL querying and joins
+- PostgreSQL database design
+- Data modeling with primary and foreign keys
+- Healthcare SaaS analytics
+- Power BI dashboard development
+- KPI design and stakeholder reporting
+- Data quality checks
+- Operational analytics
+- Synthetic data generation with Python
 
 ## Dataset
 
@@ -123,7 +140,7 @@ The project includes SQL queries for:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cardiac-device-monitoring-analytics.git
+git clone https://github.com/samarthakur412/cardiac-device-monitoring-analytics.git
 cd cardiac-device-monitoring-analytics
 ```
 
@@ -189,12 +206,14 @@ sql/04_dashboard_views.sql
 dashboards/cardiac_device_monitoring_dashboard.pbix
 ```
 
+## Limitations
+
+- The dataset is synthetic and created for portfolio demonstration.
+- The project does not use real patient data or protected health information.
+- Clinical findings and alert patterns are simulated and should not be interpreted as medical conclusions.
+
 ## Business Impact
 
 This project demonstrates how analytics can support healthcare SaaS teams by improving visibility into alert management, device monitoring, clinic workload, and operational reporting.
 
 The dashboard helps stakeholders prioritize urgent alerts, monitor device risks, identify clinics with higher workload, and troubleshoot reporting issues.
-
-```
-https://github.com/samarthakur412/cardiac-device-monitoring-analytics.git
-```
