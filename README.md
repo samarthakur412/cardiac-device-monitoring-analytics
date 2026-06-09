@@ -81,7 +81,7 @@ Monitors device health, transmission status, missed transmissions, failed transm
 
 Analyzes clinic workload using patient count, device count, alert volume, appointment volume, clinician count, and alerts per clinician.
 
-![Clinic Operations](dashboards\clinic_operations.png)
+![Clinic Operations](dashboards/clinic_operations.png)
 
 ## Key Insights
 
