@@ -1,0 +1,81 @@
+clinician_id,clinician_name,clinic_id,role
+CL001,Anthony Robinson,C002,Technician
+CL002,Jason Larson,C018,Cardiologist
+CL003,Cynthia Gardner,C013,Cardiologist
+CL004,Matthew Vance,C018,Electrophysiologist
+CL005,Carlos Fisher,C020,Electrophysiologist
+CL006,Matthew Richmond,C019,Device Nurse
+CL007,Victoria Walker,C003,Cardiologist
+CL008,Michael Espinoza,C008,Electrophysiologist
+CL009,Rachel Rogers,C003,Device Nurse
+CL010,Joseph Little,C004,Technician
+CL011,Robert Vaughn,C009,Technician
+CL012,Kristopher Ramirez MD,C012,Device Nurse
+CL013,Eric Bowman,C012,Electrophysiologist
+CL014,Casey Rangel,C007,Electrophysiologist
+CL015,Paige Logan,C003,Device Nurse
+CL016,Kerry Lucas,C018,Device Nurse
+CL017,Ana Carter,C006,Technician
+CL018,Jennifer Perez,C013,Electrophysiologist
+CL019,Joseph Maxwell,C018,Device Nurse
+CL020,Brian Terry,C011,Cardiologist
+CL021,Kimberly Cochran,C008,Cardiologist
+CL022,Kathryn Robinson,C011,Technician
+CL023,Randy Nelson,C009,Cardiologist
+CL024,Franklin Molina,C007,Electrophysiologist
+CL025,Susan Johnson,C007,Technician
+CL026,Eric Schwartz,C013,Technician
+CL027,James Fuentes,C005,Electrophysiologist
+CL028,Dr. Elizabeth Harris,C005,Device Nurse
+CL029,Loretta Crawford,C018,Electrophysiologist
+CL030,Jim Rose,C019,Technician
+CL031,Michael Fischer,C019,Technician
+CL032,Rachel Martinez,C012,Device Nurse
+CL033,Amy Williams,C005,Technician
+CL034,Ronald Velez,C003,Cardiologist
+CL035,Logan Powell,C004,Device Nurse
+CL036,John Woodard,C006,Technician
+CL037,Sandra Harris,C020,Cardiologist
+CL038,Kristen Nunez,C013,Technician
+CL039,Amanda Delacruz,C020,Technician
+CL040,Kim Meyer,C017,Electrophysiologist
+CL041,Angela Smith,C018,Cardiologist
+CL042,Michelle Sanchez,C004,Electrophysiologist
+CL043,Angela Levy,C011,Cardiologist
+CL044,Isabella Lamb,C010,Technician
+CL045,Edward Hill,C006,Technician
+CL046,Stephen Campbell,C001,Electrophysiologist
+CL047,Janice Castaneda,C017,Device Nurse
+CL048,Vanessa Molina MD,C017,Cardiologist
+CL049,Andrew Gray,C010,Device Nurse
+CL050,Alicia Parker,C005,Electrophysiologist
+CL051,Rita Hall,C006,Cardiologist
+CL052,Joshua Webb,C020,Electrophysiologist
+CL053,Richard Lewis,C016,Cardiologist
+CL054,Jaclyn Mullen,C004,Electrophysiologist
+CL055,Bruce Hammond,C010,Device Nurse
+CL056,Amy Smith,C002,Device Nurse
+CL057,Jill George,C019,Cardiologist
+CL058,Duane Sanford,C003,Technician
+CL059,Sharon Nelson,C003,Device Nurse
+CL060,Alexandra Galloway,C005,Technician
+CL061,Sonya Reid,C018,Device Nurse
+CL062,Vicki Clarke,C009,Technician
+CL063,Loretta Garcia MD,C007,Device Nurse
+CL064,Jennifer Hall,C010,Technician
+CL065,Robert Cole,C012,Technician
+CL066,Samantha Davis,C017,Technician
+CL067,Danny Flores,C004,Device Nurse
+CL068,Thomas Rodgers,C008,Cardiologist
+CL069,Tara Bell,C011,Cardiologist
+CL070,Lindsay Sherman,C019,Device Nurse
+CL071,Dr. Curtis Cortez,C019,Device Nurse
+CL072,Troy Edwards,C001,Cardiologist
+CL073,Dr. Nicholas Reynolds,C002,Device Nurse
+CL074,Miguel Schultz,C003,Cardiologist
+CL075,Kimberly Fowler,C011,Cardiologist
+CL076,Mary Welch,C017,Device Nurse
+CL077,Dylan Savage,C009,Technician
+CL078,Thomas Herring,C007,Device Nurse
+CL079,Jacqueline Williams,C019,Technician
+CL080,Molly Hunt,C008,Technician

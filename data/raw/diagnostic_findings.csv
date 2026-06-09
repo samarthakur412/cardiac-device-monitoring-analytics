@@ -1,0 +1,1001 @@
+finding_id,patient_id,device_id,finding_date,finding_type,clinical_action
+F00001,P0383,D0383,2025-08-18,Suspected AF,Urgent Clinical Review
+F00002,P0451,D0451,2024-04-22,Bradycardia Episode,Urgent Clinical Review
+F00003,P0287,D0287,2025-07-03,No Significant Event,Device Check Required
+F00004,P0066,D0066,2025-05-20,Battery Replacement Needed,Medication Review
+F00005,P0070,D0070,2025-09-16,Suspected AF,Schedule Follow-up
+F00006,P0273,D0273,2024-05-17,Suspected AF,Device Check Required
+F00007,P0264,D0264,2025-03-29,Bradycardia Episode,Urgent Clinical Review
+F00008,P0349,D0349,2025-12-13,Suspected AF,No Action Needed
+F00009,P0360,D0360,2026-02-24,Tachycardia Episode,Device Check Required
+F00010,P0408,D0408,2025-03-25,Bradycardia Episode,Medication Review
+F00011,P0026,D0026,2024-01-24,Suspected AF,Medication Review
+F00012,P0433,D0433,2024-07-11,Tachycardia Episode,Medication Review
+F00013,P0016,D0016,2025-10-19,No Significant Event,No Action Needed
+F00014,P0485,D0485,2024-12-06,Tachycardia Episode,Medication Review
+F00015,P0022,D0022,2025-10-22,No Significant Event,Schedule Follow-up
+F00016,P0426,D0426,2025-09-27,Bradycardia Episode,No Action Needed
+F00017,P0363,D0363,2026-01-03,Battery Replacement Needed,Schedule Follow-up
+F00018,P0367,D0367,2025-07-26,Tachycardia Episode,No Action Needed
+F00019,P0274,D0274,2024-07-21,Battery Replacement Needed,No Action Needed
+F00020,P0285,D0285,2024-08-06,Tachycardia Episode,Device Check Required
+F00021,P0064,D0064,2024-10-25,Battery Replacement Needed,Device Check Required
+F00022,P0286,D0286,2025-03-28,Bradycardia Episode,Device Check Required
+F00023,P0368,D0368,2025-04-28,Bradycardia Episode,Schedule Follow-up
+F00024,P0079,D0079,2026-03-01,Bradycardia Episode,No Action Needed
+F00025,P0245,D0245,2024-11-19,No Significant Event,Medication Review
+F00026,P0218,D0218,2025-11-08,Tachycardia Episode,Medication Review
+F00027,P0476,D0476,2024-07-25,Battery Replacement Needed,Schedule Follow-up
+F00028,P0499,D0499,2025-05-23,Suspected AF,Urgent Clinical Review
+F00029,P0384,D0384,2024-04-17,No Significant Event,No Action Needed
+F00030,P0407,D0407,2025-04-14,Battery Replacement Needed,No Action Needed
+F00031,P0443,D0443,2026-02-19,Suspected AF,Schedule Follow-up
+F00032,P0063,D0063,2025-05-19,Battery Replacement Needed,No Action Needed
+F00033,P0007,D0007,2024-01-03,Suspected AF,No Action Needed
+F00034,P0351,D0351,2024-09-12,No Significant Event,No Action Needed
+F00035,P0293,D0293,2025-05-29,No Significant Event,Schedule Follow-up
+F00036,P0407,D0407,2024-09-20,Suspected AF,Device Check Required
+F00037,P0043,D0043,2024-01-10,Battery Replacement Needed,Urgent Clinical Review
+F00038,P0013,D0013,2024-01-26,Battery Replacement Needed,Device Check Required
+F00039,P0210,D0210,2024-12-21,Tachycardia Episode,Urgent Clinical Review
+F00040,P0058,D0058,2025-07-01,Bradycardia Episode,No Action Needed
+F00041,P0415,D0415,2025-02-14,Tachycardia Episode,No Action Needed
+F00042,P0172,D0172,2025-07-30,Suspected AF,Device Check Required
+F00043,P0454,D0454,2025-02-09,Bradycardia Episode,Medication Review
+F00044,P0033,D0033,2024-09-29,Battery Replacement Needed,No Action Needed
+F00045,P0368,D0368,2024-10-14,No Significant Event,Urgent Clinical Review
+F00046,P0326,D0326,2024-10-22,Tachycardia Episode,No Action Needed
+F00047,P0077,D0077,2025-03-20,No Significant Event,Schedule Follow-up
+F00048,P0053,D0053,2025-12-07,No Significant Event,Device Check Required
+F00049,P0196,D0196,2025-12-07,Tachycardia Episode,Schedule Follow-up
+F00050,P0451,D0451,2025-03-17,Suspected AF,No Action Needed
+F00051,P0137,D0137,2024-12-14,Bradycardia Episode,No Action Needed
+F00052,P0248,D0248,2024-06-22,Tachycardia Episode,No Action Needed
+F00053,P0475,D0475,2026-02-02,No Significant Event,Urgent Clinical Review
+F00054,P0465,D0465,2025-10-27,Bradycardia Episode,Device Check Required
+F00055,P0091,D0091,2024-12-30,Bradycardia Episode,Urgent Clinical Review
+F00056,P0175,D0175,2024-05-25,Suspected AF,Urgent Clinical Review
+F00057,P0254,D0254,2025-08-24,Bradycardia Episode,Device Check Required
+F00058,P0099,D0099,2025-07-07,Battery Replacement Needed,Device Check Required
+F00059,P0142,D0142,2024-09-13,Battery Replacement Needed,Urgent Clinical Review
+F00060,P0176,D0176,2024-08-10,No Significant Event,Urgent Clinical Review
+F00061,P0165,D0165,2025-04-05,Bradycardia Episode,Medication Review
+F00062,P0276,D0276,2024-07-13,Battery Replacement Needed,No Action Needed
+F00063,P0410,D0410,2025-06-29,Suspected AF,Schedule Follow-up
+F00064,P0491,D0491,2024-08-26,Battery Replacement Needed,Medication Review
+F00065,P0299,D0299,2025-07-23,Tachycardia Episode,Device Check Required
+F00066,P0349,D0349,2024-03-27,Bradycardia Episode,Medication Review
+F00067,P0293,D0293,2024-09-18,No Significant Event,Schedule Follow-up
+F00068,P0241,D0241,2025-11-16,Tachycardia Episode,Schedule Follow-up
+F00069,P0483,D0483,2025-01-21,Suspected AF,Urgent Clinical Review
+F00070,P0068,D0068,2024-03-04,Battery Replacement Needed,Medication Review
+F00071,P0472,D0472,2025-03-24,Bradycardia Episode,Schedule Follow-up
+F00072,P0368,D0368,2026-03-07,Tachycardia Episode,Urgent Clinical Review
+F00073,P0381,D0381,2024-11-09,Tachycardia Episode,Device Check Required
+F00074,P0261,D0261,2026-02-10,No Significant Event,No Action Needed
+F00075,P0048,D0048,2025-06-25,No Significant Event,Medication Review
+F00076,P0041,D0041,2024-07-03,Battery Replacement Needed,No Action Needed
+F00077,P0491,D0491,2024-01-14,No Significant Event,Medication Review
+F00078,P0472,D0472,2025-08-30,No Significant Event,Device Check Required
+F00079,P0415,D0415,2025-07-04,Bradycardia Episode,Schedule Follow-up
+F00080,P0393,D0393,2024-07-26,Bradycardia Episode,Device Check Required
+F00081,P0376,D0376,2026-01-11,Suspected AF,Medication Review
+F00082,P0155,D0155,2024-03-12,No Significant Event,No Action Needed
+F00083,P0314,D0314,2026-02-12,Tachycardia Episode,Device Check Required
+F00084,P0458,D0458,2025-02-16,Suspected AF,Urgent Clinical Review
+F00085,P0482,D0482,2025-09-15,Tachycardia Episode,No Action Needed
+F00086,P0234,D0234,2024-03-31,Suspected AF,Device Check Required
+F00087,P0426,D0426,2025-03-13,Bradycardia Episode,Urgent Clinical Review
+F00088,P0145,D0145,2025-09-28,Tachycardia Episode,Urgent Clinical Review
+F00089,P0447,D0447,2025-11-24,No Significant Event,Medication Review
+F00090,P0027,D0027,2024-05-12,Bradycardia Episode,Device Check Required
+F00091,P0141,D0141,2025-01-04,Battery Replacement Needed,Schedule Follow-up
+F00092,P0249,D0249,2026-02-12,Battery Replacement Needed,Schedule Follow-up
+F00093,P0228,D0228,2025-07-24,Bradycardia Episode,Medication Review
+F00094,P0389,D0389,2025-12-20,Suspected AF,Medication Review
+F00095,P0336,D0336,2026-01-09,Bradycardia Episode,Medication Review
+F00096,P0246,D0246,2024-01-19,No Significant Event,Urgent Clinical Review
+F00097,P0196,D0196,2025-07-17,Tachycardia Episode,Schedule Follow-up
+F00098,P0115,D0115,2025-06-23,No Significant Event,Medication Review
+F00099,P0312,D0312,2025-01-21,Tachycardia Episode,Urgent Clinical Review
+F00100,P0058,D0058,2026-02-12,Suspected AF,Urgent Clinical Review
+F00101,P0188,D0188,2024-05-02,Bradycardia Episode,Medication Review
+F00102,P0155,D0155,2025-09-13,Battery Replacement Needed,Device Check Required
+F00103,P0255,D0255,2024-02-14,No Significant Event,Urgent Clinical Review
+F00104,P0360,D0360,2025-12-29,Tachycardia Episode,Medication Review
+F00105,P0099,D0099,2024-08-18,No Significant Event,Urgent Clinical Review
+F00106,P0225,D0225,2025-12-27,No Significant Event,No Action Needed
+F00107,P0410,D0410,2024-12-18,No Significant Event,No Action Needed
+F00108,P0390,D0390,2025-05-05,Suspected AF,Device Check Required
+F00109,P0487,D0487,2025-09-07,Suspected AF,Urgent Clinical Review
+F00110,P0428,D0428,2024-02-13,Bradycardia Episode,Urgent Clinical Review
+F00111,P0037,D0037,2025-12-13,Tachycardia Episode,Urgent Clinical Review
+F00112,P0026,D0026,2025-03-11,Suspected AF,No Action Needed
+F00113,P0039,D0039,2025-01-02,Suspected AF,Urgent Clinical Review
+F00114,P0042,D0042,2025-12-28,No Significant Event,Schedule Follow-up
+F00115,P0426,D0426,2024-10-10,Bradycardia Episode,No Action Needed
+F00116,P0171,D0171,2024-07-02,Battery Replacement Needed,Urgent Clinical Review
+F00117,P0396,D0396,2024-06-01,Battery Replacement Needed,Medication Review
+F00118,P0211,D0211,2024-12-21,Bradycardia Episode,No Action Needed
+F00119,P0137,D0137,2025-06-04,No Significant Event,Schedule Follow-up
+F00120,P0417,D0417,2026-03-08,Tachycardia Episode,Urgent Clinical Review
+F00121,P0316,D0316,2025-06-17,Suspected AF,Medication Review
+F00122,P0158,D0158,2025-10-28,Tachycardia Episode,Medication Review
+F00123,P0445,D0445,2024-05-28,Bradycardia Episode,No Action Needed
+F00124,P0186,D0186,2025-04-13,Bradycardia Episode,Schedule Follow-up
+F00125,P0052,D0052,2025-06-22,No Significant Event,No Action Needed
+F00126,P0100,D0100,2024-07-23,Battery Replacement Needed,Medication Review
+F00127,P0348,D0348,2025-11-20,Suspected AF,No Action Needed
+F00128,P0352,D0352,2025-03-29,Battery Replacement Needed,Device Check Required
+F00129,P0185,D0185,2025-04-02,Tachycardia Episode,Medication Review
+F00130,P0085,D0085,2024-12-08,Suspected AF,No Action Needed
+F00131,P0041,D0041,2026-03-06,Bradycardia Episode,Schedule Follow-up
+F00132,P0324,D0324,2026-02-06,Bradycardia Episode,Device Check Required
+F00133,P0484,D0484,2026-03-25,Tachycardia Episode,No Action Needed
+F00134,P0110,D0110,2025-10-29,No Significant Event,Device Check Required
+F00135,P0252,D0252,2025-04-08,No Significant Event,Schedule Follow-up
+F00136,P0241,D0241,2025-02-02,Suspected AF,Medication Review
+F00137,P0478,D0478,2024-07-04,Bradycardia Episode,Device Check Required
+F00138,P0141,D0141,2024-10-14,Suspected AF,Medication Review
+F00139,P0010,D0010,2026-02-21,Suspected AF,Device Check Required
+F00140,P0397,D0397,2026-01-22,No Significant Event,Schedule Follow-up
+F00141,P0177,D0177,2025-09-22,Bradycardia Episode,Device Check Required
+F00142,P0257,D0257,2025-03-01,Suspected AF,Medication Review
+F00143,P0044,D0044,2025-06-04,No Significant Event,Medication Review
+F00144,P0490,D0490,2025-10-30,No Significant Event,Device Check Required
+F00145,P0069,D0069,2024-11-04,Battery Replacement Needed,Medication Review
+F00146,P0406,D0406,2024-03-17,Tachycardia Episode,Urgent Clinical Review
+F00147,P0362,D0362,2024-06-14,Tachycardia Episode,Medication Review
+F00148,P0109,D0109,2026-02-01,Tachycardia Episode,Device Check Required
+F00149,P0434,D0434,2024-07-26,Suspected AF,Device Check Required
+F00150,P0445,D0445,2024-03-10,Bradycardia Episode,Device Check Required
+F00151,P0428,D0428,2024-01-31,Suspected AF,Device Check Required
+F00152,P0019,D0019,2025-11-16,Bradycardia Episode,No Action Needed
+F00153,P0411,D0411,2025-09-01,Tachycardia Episode,Medication Review
+F00154,P0349,D0349,2024-01-27,Suspected AF,No Action Needed
+F00155,P0421,D0421,2026-01-15,Battery Replacement Needed,Schedule Follow-up
+F00156,P0183,D0183,2024-12-01,Tachycardia Episode,Urgent Clinical Review
+F00157,P0003,D0003,2026-03-20,No Significant Event,Medication Review
+F00158,P0212,D0212,2025-09-06,Tachycardia Episode,Schedule Follow-up
+F00159,P0193,D0193,2025-04-01,Battery Replacement Needed,Schedule Follow-up
+F00160,P0147,D0147,2025-10-02,Battery Replacement Needed,Device Check Required
+F00161,P0471,D0471,2025-05-04,Tachycardia Episode,Device Check Required
+F00162,P0011,D0011,2024-12-02,Bradycardia Episode,No Action Needed
+F00163,P0234,D0234,2024-05-17,No Significant Event,Medication Review
+F00164,P0043,D0043,2025-04-27,Suspected AF,Medication Review
+F00165,P0115,D0115,2024-12-18,Suspected AF,Schedule Follow-up
+F00166,P0371,D0371,2025-04-07,Bradycardia Episode,No Action Needed
+F00167,P0285,D0285,2026-03-09,No Significant Event,Urgent Clinical Review
+F00168,P0489,D0489,2025-10-25,No Significant Event,Device Check Required
+F00169,P0229,D0229,2024-12-30,Tachycardia Episode,Medication Review
+F00170,P0164,D0164,2024-07-04,Battery Replacement Needed,Schedule Follow-up
+F00171,P0076,D0076,2025-11-14,Tachycardia Episode,Device Check Required
+F00172,P0341,D0341,2025-01-05,Tachycardia Episode,Schedule Follow-up
+F00173,P0203,D0203,2025-04-10,Bradycardia Episode,Medication Review
+F00174,P0005,D0005,2024-12-15,Bradycardia Episode,No Action Needed
+F00175,P0168,D0168,2024-08-27,Bradycardia Episode,Urgent Clinical Review
+F00176,P0446,D0446,2025-10-11,Battery Replacement Needed,Urgent Clinical Review
+F00177,P0294,D0294,2024-09-09,Battery Replacement Needed,Device Check Required
+F00178,P0308,D0308,2025-01-04,Battery Replacement Needed,Medication Review
+F00179,P0341,D0341,2024-12-03,No Significant Event,Device Check Required
+F00180,P0474,D0474,2025-11-03,Bradycardia Episode,Schedule Follow-up
+F00181,P0084,D0084,2024-07-04,Suspected AF,Urgent Clinical Review
+F00182,P0098,D0098,2024-09-25,Tachycardia Episode,No Action Needed
+F00183,P0065,D0065,2024-12-05,Bradycardia Episode,Medication Review
+F00184,P0291,D0291,2025-05-21,Tachycardia Episode,Medication Review
+F00185,P0144,D0144,2025-05-31,No Significant Event,Urgent Clinical Review
+F00186,P0110,D0110,2025-11-08,Suspected AF,No Action Needed
+F00187,P0030,D0030,2025-07-29,Tachycardia Episode,Device Check Required
+F00188,P0004,D0004,2026-03-02,Battery Replacement Needed,Schedule Follow-up
+F00189,P0353,D0353,2025-04-01,Suspected AF,Medication Review
+F00190,P0459,D0459,2024-09-02,Battery Replacement Needed,Urgent Clinical Review
+F00191,P0416,D0416,2024-12-05,No Significant Event,Urgent Clinical Review
+F00192,P0119,D0119,2025-04-06,Suspected AF,Medication Review
+F00193,P0317,D0317,2026-02-26,Battery Replacement Needed,Schedule Follow-up
+F00194,P0116,D0116,2024-10-04,Bradycardia Episode,Schedule Follow-up
+F00195,P0040,D0040,2024-01-26,No Significant Event,Urgent Clinical Review
+F00196,P0013,D0013,2025-09-26,Tachycardia Episode,Schedule Follow-up
+F00197,P0431,D0431,2025-07-16,Bradycardia Episode,Medication Review
+F00198,P0467,D0467,2024-10-03,No Significant Event,Medication Review
+F00199,P0249,D0249,2024-03-03,No Significant Event,Urgent Clinical Review
+F00200,P0032,D0032,2026-02-26,Bradycardia Episode,Urgent Clinical Review
+F00201,P0265,D0265,2026-02-22,Suspected AF,Medication Review
+F00202,P0447,D0447,2025-12-16,Tachycardia Episode,Urgent Clinical Review
+F00203,P0033,D0033,2025-06-21,Tachycardia Episode,Urgent Clinical Review
+F00204,P0271,D0271,2025-12-29,Battery Replacement Needed,Urgent Clinical Review
+F00205,P0198,D0198,2024-02-17,Battery Replacement Needed,Device Check Required
+F00206,P0461,D0461,2025-02-14,No Significant Event,Medication Review
+F00207,P0067,D0067,2025-11-03,No Significant Event,Device Check Required
+F00208,P0176,D0176,2024-06-18,Bradycardia Episode,Device Check Required
+F00209,P0438,D0438,2025-04-21,Suspected AF,No Action Needed
+F00210,P0132,D0132,2024-12-25,Tachycardia Episode,Urgent Clinical Review
+F00211,P0199,D0199,2025-04-12,No Significant Event,Device Check Required
+F00212,P0352,D0352,2026-03-11,Battery Replacement Needed,No Action Needed
+F00213,P0452,D0452,2024-12-15,Tachycardia Episode,No Action Needed
+F00214,P0420,D0420,2025-02-17,No Significant Event,No Action Needed
+F00215,P0028,D0028,2026-01-28,Tachycardia Episode,Schedule Follow-up
+F00216,P0474,D0474,2025-01-22,Tachycardia Episode,No Action Needed
+F00217,P0116,D0116,2024-08-28,Battery Replacement Needed,Device Check Required
+F00218,P0040,D0040,2024-07-21,Suspected AF,Medication Review
+F00219,P0296,D0296,2024-01-21,No Significant Event,No Action Needed
+F00220,P0377,D0377,2025-08-05,Suspected AF,Device Check Required
+F00221,P0390,D0390,2025-03-11,Tachycardia Episode,No Action Needed
+F00222,P0447,D0447,2025-03-10,No Significant Event,Medication Review
+F00223,P0256,D0256,2026-02-03,Tachycardia Episode,Urgent Clinical Review
+F00224,P0347,D0347,2026-01-11,Battery Replacement Needed,Urgent Clinical Review
+F00225,P0497,D0497,2026-01-10,Battery Replacement Needed,Device Check Required
+F00226,P0338,D0338,2025-05-06,Tachycardia Episode,Schedule Follow-up
+F00227,P0232,D0232,2026-01-24,Suspected AF,Urgent Clinical Review
+F00228,P0028,D0028,2024-05-21,No Significant Event,Medication Review
+F00229,P0254,D0254,2025-04-20,Battery Replacement Needed,Schedule Follow-up
+F00230,P0317,D0317,2024-05-08,Bradycardia Episode,Device Check Required
+F00231,P0089,D0089,2025-02-18,Battery Replacement Needed,Device Check Required
+F00232,P0282,D0282,2025-03-26,Suspected AF,Device Check Required
+F00233,P0175,D0175,2024-04-14,Tachycardia Episode,Device Check Required
+F00234,P0070,D0070,2024-04-04,Bradycardia Episode,Urgent Clinical Review
+F00235,P0003,D0003,2025-11-12,Battery Replacement Needed,Medication Review
+F00236,P0395,D0395,2025-04-16,Battery Replacement Needed,Schedule Follow-up
+F00237,P0362,D0362,2024-12-07,Tachycardia Episode,Urgent Clinical Review
+F00238,P0358,D0358,2025-01-14,No Significant Event,Schedule Follow-up
+F00239,P0294,D0294,2024-11-19,No Significant Event,Urgent Clinical Review
+F00240,P0360,D0360,2025-05-29,Suspected AF,No Action Needed
+F00241,P0443,D0443,2026-03-14,Battery Replacement Needed,Schedule Follow-up
+F00242,P0477,D0477,2024-10-26,Suspected AF,Schedule Follow-up
+F00243,P0076,D0076,2026-03-06,Tachycardia Episode,Schedule Follow-up
+F00244,P0434,D0434,2024-09-14,Bradycardia Episode,Medication Review
+F00245,P0292,D0292,2024-05-11,Bradycardia Episode,Device Check Required
+F00246,P0201,D0201,2026-02-13,Suspected AF,No Action Needed
+F00247,P0037,D0037,2024-12-20,Bradycardia Episode,Urgent Clinical Review
+F00248,P0260,D0260,2024-07-09,No Significant Event,No Action Needed
+F00249,P0084,D0084,2025-07-24,Suspected AF,Urgent Clinical Review
+F00250,P0432,D0432,2024-12-07,Suspected AF,Device Check Required
+F00251,P0371,D0371,2024-04-04,Battery Replacement Needed,No Action Needed
+F00252,P0282,D0282,2025-04-06,Suspected AF,Device Check Required
+F00253,P0211,D0211,2025-04-12,Tachycardia Episode,Device Check Required
+F00254,P0030,D0030,2025-11-14,Battery Replacement Needed,Schedule Follow-up
+F00255,P0489,D0489,2024-04-29,No Significant Event,No Action Needed
+F00256,P0139,D0139,2026-03-23,Tachycardia Episode,Medication Review
+F00257,P0452,D0452,2024-11-16,No Significant Event,Urgent Clinical Review
+F00258,P0297,D0297,2024-07-20,No Significant Event,Device Check Required
+F00259,P0234,D0234,2024-10-30,No Significant Event,Medication Review
+F00260,P0242,D0242,2024-11-26,Suspected AF,Schedule Follow-up
+F00261,P0288,D0288,2025-01-04,No Significant Event,Schedule Follow-up
+F00262,P0281,D0281,2025-12-12,No Significant Event,No Action Needed
+F00263,P0373,D0373,2024-02-03,Suspected AF,Schedule Follow-up
+F00264,P0346,D0346,2024-12-11,Bradycardia Episode,Device Check Required
+F00265,P0388,D0388,2025-04-06,Bradycardia Episode,Urgent Clinical Review
+F00266,P0166,D0166,2024-03-11,Bradycardia Episode,Urgent Clinical Review
+F00267,P0297,D0297,2025-08-25,Battery Replacement Needed,Medication Review
+F00268,P0226,D0226,2025-08-07,Tachycardia Episode,Device Check Required
+F00269,P0346,D0346,2024-02-13,No Significant Event,No Action Needed
+F00270,P0254,D0254,2025-12-20,Tachycardia Episode,No Action Needed
+F00271,P0449,D0449,2025-01-04,Tachycardia Episode,Urgent Clinical Review
+F00272,P0025,D0025,2025-11-04,No Significant Event,Medication Review
+F00273,P0211,D0211,2025-07-19,No Significant Event,Schedule Follow-up
+F00274,P0117,D0117,2024-02-12,Suspected AF,Medication Review
+F00275,P0082,D0082,2026-03-31,No Significant Event,Medication Review
+F00276,P0267,D0267,2024-11-09,Bradycardia Episode,Device Check Required
+F00277,P0067,D0067,2024-07-16,Tachycardia Episode,Device Check Required
+F00278,P0234,D0234,2025-09-22,Battery Replacement Needed,Urgent Clinical Review
+F00279,P0396,D0396,2025-12-03,No Significant Event,Device Check Required
+F00280,P0354,D0354,2025-05-27,Tachycardia Episode,Schedule Follow-up
+F00281,P0347,D0347,2025-03-05,Bradycardia Episode,Medication Review
+F00282,P0067,D0067,2026-01-06,Bradycardia Episode,Urgent Clinical Review
+F00283,P0281,D0281,2025-06-03,Suspected AF,No Action Needed
+F00284,P0070,D0070,2025-11-08,Tachycardia Episode,Schedule Follow-up
+F00285,P0024,D0024,2026-02-08,No Significant Event,Device Check Required
+F00286,P0489,D0489,2025-04-04,No Significant Event,Urgent Clinical Review
+F00287,P0436,D0436,2024-05-22,Suspected AF,Device Check Required
+F00288,P0188,D0188,2025-12-27,Suspected AF,Medication Review
+F00289,P0484,D0484,2024-05-23,Battery Replacement Needed,Medication Review
+F00290,P0359,D0359,2024-05-30,Battery Replacement Needed,Urgent Clinical Review
+F00291,P0402,D0402,2024-05-23,Suspected AF,No Action Needed
+F00292,P0005,D0005,2025-09-20,No Significant Event,Medication Review
+F00293,P0367,D0367,2025-04-02,Bradycardia Episode,Schedule Follow-up
+F00294,P0164,D0164,2025-10-19,Bradycardia Episode,No Action Needed
+F00295,P0437,D0437,2025-03-17,Battery Replacement Needed,Device Check Required
+F00296,P0323,D0323,2025-07-08,No Significant Event,No Action Needed
+F00297,P0112,D0112,2025-08-12,Battery Replacement Needed,Schedule Follow-up
+F00298,P0340,D0340,2025-05-29,Tachycardia Episode,Schedule Follow-up
+F00299,P0077,D0077,2024-05-01,Suspected AF,Schedule Follow-up
+F00300,P0154,D0154,2024-01-19,No Significant Event,Urgent Clinical Review
+F00301,P0088,D0088,2024-06-03,Battery Replacement Needed,Urgent Clinical Review
+F00302,P0495,D0495,2025-06-01,No Significant Event,Urgent Clinical Review
+F00303,P0421,D0421,2026-02-13,Battery Replacement Needed,No Action Needed
+F00304,P0495,D0495,2024-04-17,Bradycardia Episode,No Action Needed
+F00305,P0015,D0015,2026-03-10,Bradycardia Episode,Urgent Clinical Review
+F00306,P0296,D0296,2024-12-23,Bradycardia Episode,Device Check Required
+F00307,P0164,D0164,2025-03-12,Suspected AF,Device Check Required
+F00308,P0431,D0431,2025-07-26,Suspected AF,Device Check Required
+F00309,P0470,D0470,2025-06-09,Suspected AF,Schedule Follow-up
+F00310,P0058,D0058,2024-02-09,Bradycardia Episode,No Action Needed
+F00311,P0222,D0222,2024-01-07,Bradycardia Episode,Medication Review
+F00312,P0053,D0053,2025-03-06,Battery Replacement Needed,No Action Needed
+F00313,P0267,D0267,2024-03-22,No Significant Event,No Action Needed
+F00314,P0023,D0023,2024-10-07,No Significant Event,Schedule Follow-up
+F00315,P0169,D0169,2025-03-02,Suspected AF,Medication Review
+F00316,P0206,D0206,2025-05-20,Bradycardia Episode,Schedule Follow-up
+F00317,P0143,D0143,2024-07-09,Suspected AF,No Action Needed
+F00318,P0068,D0068,2024-05-02,Bradycardia Episode,Medication Review
+F00319,P0473,D0473,2025-08-11,Bradycardia Episode,Urgent Clinical Review
+F00320,P0474,D0474,2025-10-08,Battery Replacement Needed,Schedule Follow-up
+F00321,P0250,D0250,2025-08-14,Suspected AF,Device Check Required
+F00322,P0366,D0366,2025-09-01,Suspected AF,Urgent Clinical Review
+F00323,P0196,D0196,2025-01-23,Battery Replacement Needed,No Action Needed
+F00324,P0105,D0105,2025-09-08,Suspected AF,Schedule Follow-up
+F00325,P0028,D0028,2025-01-23,Bradycardia Episode,No Action Needed
+F00326,P0280,D0280,2025-05-16,Tachycardia Episode,Medication Review
+F00327,P0143,D0143,2025-12-17,Battery Replacement Needed,Schedule Follow-up
+F00328,P0076,D0076,2024-01-19,Bradycardia Episode,Urgent Clinical Review
+F00329,P0014,D0014,2024-11-05,Battery Replacement Needed,Schedule Follow-up
+F00330,P0328,D0328,2026-03-16,Tachycardia Episode,No Action Needed
+F00331,P0006,D0006,2025-08-06,Suspected AF,No Action Needed
+F00332,P0256,D0256,2025-03-06,Battery Replacement Needed,No Action Needed
+F00333,P0049,D0049,2024-04-19,Suspected AF,Medication Review
+F00334,P0011,D0011,2025-11-08,No Significant Event,Device Check Required
+F00335,P0077,D0077,2024-01-19,Battery Replacement Needed,Device Check Required
+F00336,P0175,D0175,2024-10-25,No Significant Event,Urgent Clinical Review
+F00337,P0119,D0119,2024-11-02,Bradycardia Episode,Schedule Follow-up
+F00338,P0375,D0375,2025-11-01,Bradycardia Episode,Urgent Clinical Review
+F00339,P0110,D0110,2025-05-19,No Significant Event,Schedule Follow-up
+F00340,P0338,D0338,2024-03-01,Suspected AF,Urgent Clinical Review
+F00341,P0266,D0266,2025-02-27,Suspected AF,No Action Needed
+F00342,P0444,D0444,2025-01-15,No Significant Event,Medication Review
+F00343,P0455,D0455,2024-07-25,Suspected AF,Medication Review
+F00344,P0345,D0345,2024-08-13,No Significant Event,Medication Review
+F00345,P0033,D0033,2025-03-18,No Significant Event,Medication Review
+F00346,P0164,D0164,2025-11-24,Battery Replacement Needed,Urgent Clinical Review
+F00347,P0451,D0451,2026-01-29,Battery Replacement Needed,Urgent Clinical Review
+F00348,P0217,D0217,2024-01-18,Bradycardia Episode,Urgent Clinical Review
+F00349,P0303,D0303,2025-05-22,Suspected AF,Medication Review
+F00350,P0424,D0424,2025-02-25,Bradycardia Episode,Urgent Clinical Review
+F00351,P0315,D0315,2025-12-18,Bradycardia Episode,Medication Review
+F00352,P0337,D0337,2024-12-30,Suspected AF,Device Check Required
+F00353,P0478,D0478,2025-08-06,No Significant Event,Schedule Follow-up
+F00354,P0092,D0092,2026-01-04,Bradycardia Episode,No Action Needed
+F00355,P0001,D0001,2024-12-06,Tachycardia Episode,Medication Review
+F00356,P0099,D0099,2024-04-12,Suspected AF,Urgent Clinical Review
+F00357,P0490,D0490,2024-07-28,Bradycardia Episode,Schedule Follow-up
+F00358,P0085,D0085,2025-08-03,Suspected AF,No Action Needed
+F00359,P0145,D0145,2024-08-28,Battery Replacement Needed,Urgent Clinical Review
+F00360,P0387,D0387,2024-03-16,Tachycardia Episode,Device Check Required
+F00361,P0103,D0103,2025-05-24,Tachycardia Episode,No Action Needed
+F00362,P0471,D0471,2025-10-01,Bradycardia Episode,Schedule Follow-up
+F00363,P0175,D0175,2024-03-15,Battery Replacement Needed,Medication Review
+F00364,P0012,D0012,2025-11-23,Battery Replacement Needed,Device Check Required
+F00365,P0352,D0352,2025-06-27,Suspected AF,Medication Review
+F00366,P0222,D0222,2025-12-12,No Significant Event,Urgent Clinical Review
+F00367,P0208,D0208,2024-09-23,No Significant Event,Urgent Clinical Review
+F00368,P0285,D0285,2024-01-15,Suspected AF,Urgent Clinical Review
+F00369,P0291,D0291,2025-11-24,Battery Replacement Needed,Urgent Clinical Review
+F00370,P0404,D0404,2024-05-26,Bradycardia Episode,Urgent Clinical Review
+F00371,P0006,D0006,2025-10-11,Bradycardia Episode,Device Check Required
+F00372,P0293,D0293,2025-06-10,No Significant Event,Urgent Clinical Review
+F00373,P0359,D0359,2026-01-02,Battery Replacement Needed,No Action Needed
+F00374,P0116,D0116,2024-07-15,Tachycardia Episode,No Action Needed
+F00375,P0139,D0139,2024-08-07,Tachycardia Episode,Device Check Required
+F00376,P0334,D0334,2024-07-30,Suspected AF,Schedule Follow-up
+F00377,P0061,D0061,2024-02-22,Bradycardia Episode,Urgent Clinical Review
+F00378,P0364,D0364,2026-03-20,Battery Replacement Needed,Device Check Required
+F00379,P0204,D0204,2025-08-03,Bradycardia Episode,Urgent Clinical Review
+F00380,P0007,D0007,2024-12-29,No Significant Event,No Action Needed
+F00381,P0129,D0129,2025-04-12,Bradycardia Episode,Urgent Clinical Review
+F00382,P0091,D0091,2025-04-14,Battery Replacement Needed,No Action Needed
+F00383,P0439,D0439,2024-07-12,Bradycardia Episode,No Action Needed
+F00384,P0189,D0189,2026-01-10,Battery Replacement Needed,Medication Review
+F00385,P0116,D0116,2025-12-08,Suspected AF,Medication Review
+F00386,P0335,D0335,2024-01-15,Bradycardia Episode,No Action Needed
+F00387,P0310,D0310,2026-01-31,Suspected AF,Urgent Clinical Review
+F00388,P0499,D0499,2024-04-13,No Significant Event,Device Check Required
+F00389,P0095,D0095,2024-03-17,Tachycardia Episode,No Action Needed
+F00390,P0409,D0409,2024-01-03,Suspected AF,Medication Review
+F00391,P0222,D0222,2025-06-11,Bradycardia Episode,Medication Review
+F00392,P0282,D0282,2026-01-15,Suspected AF,Schedule Follow-up
+F00393,P0381,D0381,2025-11-29,No Significant Event,Medication Review
+F00394,P0301,D0301,2025-06-02,Suspected AF,No Action Needed
+F00395,P0024,D0024,2026-01-12,Battery Replacement Needed,Medication Review
+F00396,P0479,D0479,2025-11-25,Bradycardia Episode,Schedule Follow-up
+F00397,P0212,D0212,2024-11-21,Bradycardia Episode,Schedule Follow-up
+F00398,P0140,D0140,2025-12-17,Battery Replacement Needed,Device Check Required
+F00399,P0017,D0017,2024-05-29,Bradycardia Episode,Medication Review
+F00400,P0271,D0271,2025-03-17,Suspected AF,Medication Review
+F00401,P0197,D0197,2024-10-02,Suspected AF,Schedule Follow-up
+F00402,P0213,D0213,2025-11-10,Battery Replacement Needed,Urgent Clinical Review
+F00403,P0016,D0016,2025-04-01,Suspected AF,No Action Needed
+F00404,P0410,D0410,2024-02-29,Battery Replacement Needed,Schedule Follow-up
+F00405,P0390,D0390,2025-11-08,No Significant Event,No Action Needed
+F00406,P0201,D0201,2024-12-07,No Significant Event,Urgent Clinical Review
+F00407,P0353,D0353,2024-09-18,Suspected AF,Device Check Required
+F00408,P0413,D0413,2025-03-17,Suspected AF,No Action Needed
+F00409,P0037,D0037,2024-04-08,Bradycardia Episode,Urgent Clinical Review
+F00410,P0098,D0098,2024-08-27,No Significant Event,Medication Review
+F00411,P0164,D0164,2026-02-07,Suspected AF,Urgent Clinical Review
+F00412,P0356,D0356,2025-02-19,Bradycardia Episode,Schedule Follow-up
+F00413,P0168,D0168,2025-11-24,Tachycardia Episode,No Action Needed
+F00414,P0269,D0269,2024-05-14,Suspected AF,Device Check Required
+F00415,P0180,D0180,2026-03-17,Tachycardia Episode,Urgent Clinical Review
+F00416,P0279,D0279,2024-11-01,Battery Replacement Needed,No Action Needed
+F00417,P0358,D0358,2025-12-20,Suspected AF,No Action Needed
+F00418,P0031,D0031,2024-03-19,Suspected AF,Schedule Follow-up
+F00419,P0056,D0056,2025-12-27,No Significant Event,Schedule Follow-up
+F00420,P0085,D0085,2025-12-13,Suspected AF,No Action Needed
+F00421,P0365,D0365,2025-03-05,Tachycardia Episode,Urgent Clinical Review
+F00422,P0048,D0048,2025-01-25,Bradycardia Episode,Medication Review
+F00423,P0264,D0264,2025-10-02,Tachycardia Episode,Device Check Required
+F00424,P0306,D0306,2024-09-08,No Significant Event,Schedule Follow-up
+F00425,P0051,D0051,2025-07-15,No Significant Event,Device Check Required
+F00426,P0363,D0363,2025-06-01,Bradycardia Episode,No Action Needed
+F00427,P0176,D0176,2024-10-27,No Significant Event,Medication Review
+F00428,P0153,D0153,2024-10-15,Tachycardia Episode,Schedule Follow-up
+F00429,P0116,D0116,2024-06-28,Battery Replacement Needed,No Action Needed
+F00430,P0437,D0437,2026-02-06,Tachycardia Episode,Medication Review
+F00431,P0064,D0064,2025-11-09,Battery Replacement Needed,No Action Needed
+F00432,P0151,D0151,2024-11-17,No Significant Event,Urgent Clinical Review
+F00433,P0029,D0029,2025-11-21,Battery Replacement Needed,No Action Needed
+F00434,P0042,D0042,2024-12-16,Battery Replacement Needed,Medication Review
+F00435,P0061,D0061,2024-01-08,Battery Replacement Needed,Medication Review
+F00436,P0212,D0212,2024-06-14,Battery Replacement Needed,No Action Needed
+F00437,P0049,D0049,2025-03-22,Battery Replacement Needed,Schedule Follow-up
+F00438,P0225,D0225,2025-02-10,No Significant Event,Medication Review
+F00439,P0471,D0471,2025-04-01,Tachycardia Episode,Schedule Follow-up
+F00440,P0344,D0344,2024-03-28,Suspected AF,Urgent Clinical Review
+F00441,P0107,D0107,2025-05-17,No Significant Event,Device Check Required
+F00442,P0440,D0440,2024-10-20,Suspected AF,No Action Needed
+F00443,P0279,D0279,2025-01-16,Battery Replacement Needed,No Action Needed
+F00444,P0326,D0326,2024-12-24,Tachycardia Episode,Urgent Clinical Review
+F00445,P0465,D0465,2025-06-05,Suspected AF,Medication Review
+F00446,P0193,D0193,2024-12-13,Bradycardia Episode,No Action Needed
+F00447,P0414,D0414,2025-07-19,Bradycardia Episode,Urgent Clinical Review
+F00448,P0172,D0172,2024-12-31,Bradycardia Episode,Schedule Follow-up
+F00449,P0249,D0249,2025-09-29,Tachycardia Episode,Medication Review
+F00450,P0175,D0175,2024-09-09,Bradycardia Episode,Schedule Follow-up
+F00451,P0029,D0029,2024-05-21,Suspected AF,Device Check Required
+F00452,P0205,D0205,2024-07-22,No Significant Event,Urgent Clinical Review
+F00453,P0321,D0321,2024-11-08,No Significant Event,Medication Review
+F00454,P0334,D0334,2026-03-06,Battery Replacement Needed,Device Check Required
+F00455,P0023,D0023,2025-10-20,No Significant Event,Urgent Clinical Review
+F00456,P0413,D0413,2025-07-01,Suspected AF,Schedule Follow-up
+F00457,P0167,D0167,2024-01-24,No Significant Event,Urgent Clinical Review
+F00458,P0395,D0395,2024-03-18,Tachycardia Episode,Schedule Follow-up
+F00459,P0231,D0231,2025-01-28,Bradycardia Episode,No Action Needed
+F00460,P0470,D0470,2025-10-31,No Significant Event,Medication Review
+F00461,P0092,D0092,2024-05-29,Suspected AF,Medication Review
+F00462,P0058,D0058,2025-10-02,Bradycardia Episode,Device Check Required
+F00463,P0124,D0124,2025-06-12,Suspected AF,Schedule Follow-up
+F00464,P0320,D0320,2024-04-19,Bradycardia Episode,Medication Review
+F00465,P0457,D0457,2026-02-19,Tachycardia Episode,Schedule Follow-up
+F00466,P0317,D0317,2026-01-08,Bradycardia Episode,Schedule Follow-up
+F00467,P0408,D0408,2024-03-03,No Significant Event,No Action Needed
+F00468,P0183,D0183,2024-05-21,Bradycardia Episode,No Action Needed
+F00469,P0184,D0184,2024-08-12,Suspected AF,No Action Needed
+F00470,P0465,D0465,2024-04-28,Suspected AF,Schedule Follow-up
+F00471,P0387,D0387,2024-03-08,Bradycardia Episode,Device Check Required
+F00472,P0364,D0364,2024-11-05,Bradycardia Episode,Schedule Follow-up
+F00473,P0486,D0486,2024-03-26,Bradycardia Episode,Schedule Follow-up
+F00474,P0351,D0351,2025-04-21,Tachycardia Episode,Urgent Clinical Review
+F00475,P0308,D0308,2025-11-25,Suspected AF,Medication Review
+F00476,P0177,D0177,2024-12-09,Battery Replacement Needed,Schedule Follow-up
+F00477,P0223,D0223,2026-01-26,No Significant Event,Device Check Required
+F00478,P0416,D0416,2025-04-30,Suspected AF,Schedule Follow-up
+F00479,P0028,D0028,2025-03-13,Suspected AF,Medication Review
+F00480,P0481,D0481,2025-07-30,Tachycardia Episode,Device Check Required
+F00481,P0285,D0285,2025-09-29,Tachycardia Episode,Urgent Clinical Review
+F00482,P0147,D0147,2025-08-20,Battery Replacement Needed,Device Check Required
+F00483,P0137,D0137,2025-12-13,No Significant Event,Medication Review
+F00484,P0333,D0333,2025-02-16,Battery Replacement Needed,Device Check Required
+F00485,P0326,D0326,2025-10-25,Bradycardia Episode,No Action Needed
+F00486,P0482,D0482,2024-03-06,No Significant Event,Medication Review
+F00487,P0435,D0435,2024-01-16,Tachycardia Episode,Device Check Required
+F00488,P0179,D0179,2026-03-16,Bradycardia Episode,Urgent Clinical Review
+F00489,P0115,D0115,2025-09-29,Tachycardia Episode,Device Check Required
+F00490,P0178,D0178,2024-06-20,Tachycardia Episode,Device Check Required
+F00491,P0094,D0094,2024-07-13,No Significant Event,Urgent Clinical Review
+F00492,P0063,D0063,2025-02-24,Battery Replacement Needed,No Action Needed
+F00493,P0302,D0302,2024-02-11,Tachycardia Episode,No Action Needed
+F00494,P0089,D0089,2024-04-18,Battery Replacement Needed,Medication Review
+F00495,P0340,D0340,2025-05-26,Bradycardia Episode,No Action Needed
+F00496,P0385,D0385,2025-11-04,Bradycardia Episode,Schedule Follow-up
+F00497,P0211,D0211,2024-05-11,Suspected AF,No Action Needed
+F00498,P0274,D0274,2024-03-08,No Significant Event,Device Check Required
+F00499,P0026,D0026,2024-01-09,Bradycardia Episode,Schedule Follow-up
+F00500,P0417,D0417,2024-05-11,Bradycardia Episode,Urgent Clinical Review
+F00501,P0045,D0045,2026-01-12,No Significant Event,Schedule Follow-up
+F00502,P0014,D0014,2025-10-26,No Significant Event,Schedule Follow-up
+F00503,P0314,D0314,2026-02-21,Battery Replacement Needed,No Action Needed
+F00504,P0096,D0096,2024-11-07,No Significant Event,Schedule Follow-up
+F00505,P0070,D0070,2024-04-24,Tachycardia Episode,No Action Needed
+F00506,P0374,D0374,2025-03-17,Tachycardia Episode,Urgent Clinical Review
+F00507,P0375,D0375,2025-11-11,Tachycardia Episode,Medication Review
+F00508,P0153,D0153,2025-11-25,Bradycardia Episode,Device Check Required
+F00509,P0281,D0281,2025-08-19,Tachycardia Episode,No Action Needed
+F00510,P0291,D0291,2025-05-14,Suspected AF,No Action Needed
+F00511,P0131,D0131,2025-09-10,Battery Replacement Needed,Urgent Clinical Review
+F00512,P0036,D0036,2024-12-04,Suspected AF,No Action Needed
+F00513,P0399,D0399,2024-04-30,Bradycardia Episode,Device Check Required
+F00514,P0421,D0421,2025-07-12,Tachycardia Episode,Schedule Follow-up
+F00515,P0434,D0434,2024-09-02,Battery Replacement Needed,No Action Needed
+F00516,P0278,D0278,2024-07-20,Tachycardia Episode,No Action Needed
+F00517,P0358,D0358,2024-11-25,Bradycardia Episode,Urgent Clinical Review
+F00518,P0247,D0247,2025-02-14,Suspected AF,Schedule Follow-up
+F00519,P0349,D0349,2025-02-15,Bradycardia Episode,Schedule Follow-up
+F00520,P0337,D0337,2024-08-03,Tachycardia Episode,Schedule Follow-up
+F00521,P0443,D0443,2026-01-11,Bradycardia Episode,Medication Review
+F00522,P0363,D0363,2026-03-27,Battery Replacement Needed,Urgent Clinical Review
+F00523,P0399,D0399,2026-01-08,Bradycardia Episode,Device Check Required
+F00524,P0302,D0302,2026-01-28,Battery Replacement Needed,Schedule Follow-up
+F00525,P0479,D0479,2025-04-01,Suspected AF,Medication Review
+F00526,P0444,D0444,2025-04-17,Battery Replacement Needed,Device Check Required
+F00527,P0099,D0099,2024-12-20,Suspected AF,Urgent Clinical Review
+F00528,P0200,D0200,2025-11-17,Suspected AF,Medication Review
+F00529,P0305,D0305,2025-10-23,Tachycardia Episode,No Action Needed
+F00530,P0038,D0038,2024-03-10,Tachycardia Episode,Urgent Clinical Review
+F00531,P0294,D0294,2024-09-21,Bradycardia Episode,Medication Review
+F00532,P0495,D0495,2024-02-20,Suspected AF,Schedule Follow-up
+F00533,P0336,D0336,2026-01-20,Tachycardia Episode,Medication Review
+F00534,P0478,D0478,2026-03-03,Battery Replacement Needed,Urgent Clinical Review
+F00535,P0388,D0388,2024-09-18,No Significant Event,Medication Review
+F00536,P0445,D0445,2024-11-10,No Significant Event,Device Check Required
+F00537,P0120,D0120,2025-09-14,No Significant Event,Device Check Required
+F00538,P0441,D0441,2025-02-03,Tachycardia Episode,No Action Needed
+F00539,P0102,D0102,2024-10-20,Bradycardia Episode,Urgent Clinical Review
+F00540,P0295,D0295,2026-02-12,Tachycardia Episode,Device Check Required
+F00541,P0288,D0288,2024-04-29,Suspected AF,Urgent Clinical Review
+F00542,P0242,D0242,2025-06-20,Suspected AF,Device Check Required
+F00543,P0445,D0445,2024-03-10,Battery Replacement Needed,Schedule Follow-up
+F00544,P0403,D0403,2026-01-27,Tachycardia Episode,Device Check Required
+F00545,P0410,D0410,2025-10-22,No Significant Event,Medication Review
+F00546,P0311,D0311,2025-04-01,Tachycardia Episode,Medication Review
+F00547,P0196,D0196,2025-08-25,Tachycardia Episode,Device Check Required
+F00548,P0181,D0181,2025-06-14,Bradycardia Episode,Medication Review
+F00549,P0482,D0482,2025-12-18,No Significant Event,Device Check Required
+F00550,P0112,D0112,2024-08-28,No Significant Event,No Action Needed
+F00551,P0246,D0246,2025-10-17,Battery Replacement Needed,Urgent Clinical Review
+F00552,P0452,D0452,2024-04-17,Bradycardia Episode,Device Check Required
+F00553,P0318,D0318,2025-05-22,Bradycardia Episode,Medication Review
+F00554,P0228,D0228,2024-05-03,No Significant Event,Medication Review
+F00555,P0366,D0366,2024-10-10,Bradycardia Episode,Medication Review
+F00556,P0176,D0176,2025-11-08,Tachycardia Episode,Urgent Clinical Review
+F00557,P0169,D0169,2025-04-12,Suspected AF,Device Check Required
+F00558,P0147,D0147,2025-09-07,Suspected AF,Device Check Required
+F00559,P0397,D0397,2025-03-28,Suspected AF,Medication Review
+F00560,P0275,D0275,2025-10-08,Bradycardia Episode,Medication Review
+F00561,P0304,D0304,2024-08-03,Suspected AF,No Action Needed
+F00562,P0398,D0398,2024-03-13,Tachycardia Episode,Schedule Follow-up
+F00563,P0149,D0149,2024-04-16,Bradycardia Episode,No Action Needed
+F00564,P0233,D0233,2024-06-03,Tachycardia Episode,Schedule Follow-up
+F00565,P0449,D0449,2024-12-25,Battery Replacement Needed,Schedule Follow-up
+F00566,P0186,D0186,2024-04-21,No Significant Event,Urgent Clinical Review
+F00567,P0478,D0478,2025-10-03,Battery Replacement Needed,Medication Review
+F00568,P0309,D0309,2025-01-26,Tachycardia Episode,Schedule Follow-up
+F00569,P0316,D0316,2024-09-21,Suspected AF,Medication Review
+F00570,P0079,D0079,2025-01-09,Bradycardia Episode,Schedule Follow-up
+F00571,P0276,D0276,2024-11-30,Suspected AF,Device Check Required
+F00572,P0376,D0376,2025-04-25,Bradycardia Episode,Urgent Clinical Review
+F00573,P0425,D0425,2024-12-29,Tachycardia Episode,Medication Review
+F00574,P0177,D0177,2024-06-08,Tachycardia Episode,Medication Review
+F00575,P0168,D0168,2024-06-08,Bradycardia Episode,Schedule Follow-up
+F00576,P0044,D0044,2025-03-24,Bradycardia Episode,Schedule Follow-up
+F00577,P0033,D0033,2025-06-01,No Significant Event,Schedule Follow-up
+F00578,P0254,D0254,2024-01-25,No Significant Event,Schedule Follow-up
+F00579,P0454,D0454,2024-02-22,Bradycardia Episode,No Action Needed
+F00580,P0049,D0049,2024-01-04,Tachycardia Episode,Medication Review
+F00581,P0289,D0289,2025-08-07,Tachycardia Episode,No Action Needed
+F00582,P0336,D0336,2025-04-13,No Significant Event,Device Check Required
+F00583,P0386,D0386,2024-12-14,No Significant Event,No Action Needed
+F00584,P0479,D0479,2025-12-04,Suspected AF,Medication Review
+F00585,P0110,D0110,2025-06-09,Tachycardia Episode,Device Check Required
+F00586,P0234,D0234,2024-02-18,Battery Replacement Needed,Device Check Required
+F00587,P0058,D0058,2025-04-07,No Significant Event,Device Check Required
+F00588,P0341,D0341,2024-06-23,Bradycardia Episode,No Action Needed
+F00589,P0079,D0079,2024-02-26,Battery Replacement Needed,Schedule Follow-up
+F00590,P0003,D0003,2024-06-13,Suspected AF,Urgent Clinical Review
+F00591,P0415,D0415,2024-12-16,Tachycardia Episode,Urgent Clinical Review
+F00592,P0068,D0068,2024-07-18,No Significant Event,No Action Needed
+F00593,P0179,D0179,2025-01-18,Suspected AF,Device Check Required
+F00594,P0408,D0408,2026-01-15,Bradycardia Episode,No Action Needed
+F00595,P0253,D0253,2025-02-10,Battery Replacement Needed,Device Check Required
+F00596,P0167,D0167,2025-10-05,Suspected AF,Medication Review
+F00597,P0273,D0273,2025-07-07,Battery Replacement Needed,Medication Review
+F00598,P0387,D0387,2024-10-06,Bradycardia Episode,Schedule Follow-up
+F00599,P0081,D0081,2024-08-10,Tachycardia Episode,Medication Review
+F00600,P0056,D0056,2025-08-17,Bradycardia Episode,No Action Needed
+F00601,P0186,D0186,2024-04-15,Suspected AF,No Action Needed
+F00602,P0373,D0373,2026-03-24,No Significant Event,No Action Needed
+F00603,P0361,D0361,2025-07-04,Battery Replacement Needed,Device Check Required
+F00604,P0032,D0032,2025-05-18,Tachycardia Episode,No Action Needed
+F00605,P0472,D0472,2024-10-31,Suspected AF,Device Check Required
+F00606,P0388,D0388,2024-05-27,No Significant Event,Schedule Follow-up
+F00607,P0229,D0229,2024-04-08,Bradycardia Episode,No Action Needed
+F00608,P0336,D0336,2025-12-14,Tachycardia Episode,Medication Review
+F00609,P0302,D0302,2024-05-07,Battery Replacement Needed,Device Check Required
+F00610,P0173,D0173,2025-04-29,Battery Replacement Needed,Schedule Follow-up
+F00611,P0486,D0486,2025-08-13,Tachycardia Episode,No Action Needed
+F00612,P0213,D0213,2024-12-11,Battery Replacement Needed,Device Check Required
+F00613,P0267,D0267,2024-12-28,No Significant Event,No Action Needed
+F00614,P0200,D0200,2024-10-04,No Significant Event,Medication Review
+F00615,P0074,D0074,2024-07-01,No Significant Event,No Action Needed
+F00616,P0274,D0274,2025-05-22,Suspected AF,Medication Review
+F00617,P0130,D0130,2024-08-10,Suspected AF,No Action Needed
+F00618,P0193,D0193,2025-04-11,Tachycardia Episode,Schedule Follow-up
+F00619,P0256,D0256,2024-06-18,No Significant Event,Urgent Clinical Review
+F00620,P0183,D0183,2025-04-22,Bradycardia Episode,Urgent Clinical Review
+F00621,P0381,D0381,2025-09-03,Bradycardia Episode,Urgent Clinical Review
+F00622,P0237,D0237,2025-08-03,No Significant Event,Device Check Required
+F00623,P0492,D0492,2025-05-13,Bradycardia Episode,Schedule Follow-up
+F00624,P0366,D0366,2025-07-07,Tachycardia Episode,No Action Needed
+F00625,P0459,D0459,2024-03-25,Tachycardia Episode,Device Check Required
+F00626,P0229,D0229,2025-12-08,Tachycardia Episode,Urgent Clinical Review
+F00627,P0087,D0087,2025-04-06,No Significant Event,Urgent Clinical Review
+F00628,P0128,D0128,2026-02-20,Battery Replacement Needed,No Action Needed
+F00629,P0352,D0352,2024-04-30,Suspected AF,No Action Needed
+F00630,P0123,D0123,2024-07-30,Suspected AF,Medication Review
+F00631,P0271,D0271,2024-06-25,Battery Replacement Needed,Schedule Follow-up
+F00632,P0475,D0475,2024-07-31,Battery Replacement Needed,Schedule Follow-up
+F00633,P0135,D0135,2025-01-07,No Significant Event,Schedule Follow-up
+F00634,P0033,D0033,2024-08-03,Tachycardia Episode,Device Check Required
+F00635,P0450,D0450,2024-12-09,Suspected AF,Medication Review
+F00636,P0077,D0077,2024-10-20,Battery Replacement Needed,No Action Needed
+F00637,P0216,D0216,2025-02-11,No Significant Event,Schedule Follow-up
+F00638,P0012,D0012,2024-09-27,Bradycardia Episode,Urgent Clinical Review
+F00639,P0181,D0181,2025-11-28,Battery Replacement Needed,Device Check Required
+F00640,P0242,D0242,2025-07-16,Bradycardia Episode,Device Check Required
+F00641,P0143,D0143,2024-02-05,Bradycardia Episode,No Action Needed
+F00642,P0341,D0341,2025-12-31,No Significant Event,Device Check Required
+F00643,P0443,D0443,2024-04-17,Tachycardia Episode,Medication Review
+F00644,P0071,D0071,2024-11-28,Bradycardia Episode,Schedule Follow-up
+F00645,P0357,D0357,2025-04-23,Battery Replacement Needed,Schedule Follow-up
+F00646,P0362,D0362,2024-07-20,Battery Replacement Needed,Urgent Clinical Review
+F00647,P0214,D0214,2025-04-25,Suspected AF,Schedule Follow-up
+F00648,P0128,D0128,2024-05-03,Bradycardia Episode,Device Check Required
+F00649,P0328,D0328,2024-03-20,Tachycardia Episode,Urgent Clinical Review
+F00650,P0406,D0406,2026-02-01,Suspected AF,Medication Review
+F00651,P0249,D0249,2025-04-29,Tachycardia Episode,No Action Needed
+F00652,P0360,D0360,2024-02-21,No Significant Event,Urgent Clinical Review
+F00653,P0106,D0106,2025-03-13,Bradycardia Episode,Medication Review
+F00654,P0116,D0116,2024-10-27,Suspected AF,Urgent Clinical Review
+F00655,P0297,D0297,2026-02-05,Suspected AF,Medication Review
+F00656,P0051,D0051,2024-07-22,Tachycardia Episode,Device Check Required
+F00657,P0204,D0204,2024-02-03,No Significant Event,Urgent Clinical Review
+F00658,P0360,D0360,2025-11-07,Tachycardia Episode,Device Check Required
+F00659,P0347,D0347,2024-02-03,Bradycardia Episode,No Action Needed
+F00660,P0093,D0093,2024-07-29,Bradycardia Episode,Device Check Required
+F00661,P0218,D0218,2026-03-08,No Significant Event,Schedule Follow-up
+F00662,P0022,D0022,2025-04-06,No Significant Event,Medication Review
+F00663,P0051,D0051,2025-02-10,Bradycardia Episode,Medication Review
+F00664,P0225,D0225,2025-02-10,Suspected AF,Medication Review
+F00665,P0262,D0262,2025-07-04,Bradycardia Episode,No Action Needed
+F00666,P0071,D0071,2024-03-28,Battery Replacement Needed,Urgent Clinical Review
+F00667,P0444,D0444,2024-02-02,Tachycardia Episode,Medication Review
+F00668,P0423,D0423,2026-02-09,Tachycardia Episode,Schedule Follow-up
+F00669,P0005,D0005,2024-06-29,No Significant Event,Device Check Required
+F00670,P0145,D0145,2025-05-11,Battery Replacement Needed,No Action Needed
+F00671,P0442,D0442,2026-02-17,Suspected AF,No Action Needed
+F00672,P0420,D0420,2025-05-18,Battery Replacement Needed,Medication Review
+F00673,P0162,D0162,2024-04-26,No Significant Event,Medication Review
+F00674,P0325,D0325,2025-09-09,No Significant Event,Device Check Required
+F00675,P0169,D0169,2024-07-01,Battery Replacement Needed,No Action Needed
+F00676,P0304,D0304,2025-02-19,Battery Replacement Needed,Medication Review
+F00677,P0071,D0071,2024-05-22,No Significant Event,Schedule Follow-up
+F00678,P0033,D0033,2025-09-13,No Significant Event,Medication Review
+F00679,P0398,D0398,2024-09-09,Battery Replacement Needed,Medication Review
+F00680,P0329,D0329,2024-03-13,Battery Replacement Needed,Device Check Required
+F00681,P0142,D0142,2024-12-04,Tachycardia Episode,Device Check Required
+F00682,P0047,D0047,2024-03-29,Tachycardia Episode,Device Check Required
+F00683,P0070,D0070,2025-01-18,Tachycardia Episode,Schedule Follow-up
+F00684,P0452,D0452,2024-06-12,Bradycardia Episode,Medication Review
+F00685,P0458,D0458,2025-06-17,Battery Replacement Needed,Schedule Follow-up
+F00686,P0219,D0219,2025-03-22,Tachycardia Episode,No Action Needed
+F00687,P0283,D0283,2025-05-26,Battery Replacement Needed,Urgent Clinical Review
+F00688,P0279,D0279,2024-08-09,No Significant Event,Medication Review
+F00689,P0005,D0005,2024-02-18,Battery Replacement Needed,Schedule Follow-up
+F00690,P0163,D0163,2026-01-20,No Significant Event,Device Check Required
+F00691,P0346,D0346,2025-06-07,No Significant Event,Device Check Required
+F00692,P0070,D0070,2025-10-12,Suspected AF,Medication Review
+F00693,P0127,D0127,2025-10-11,Battery Replacement Needed,Schedule Follow-up
+F00694,P0085,D0085,2025-02-02,Tachycardia Episode,Urgent Clinical Review
+F00695,P0472,D0472,2025-02-19,Tachycardia Episode,Urgent Clinical Review
+F00696,P0255,D0255,2024-01-25,Battery Replacement Needed,No Action Needed
+F00697,P0101,D0101,2025-05-07,Battery Replacement Needed,Medication Review
+F00698,P0245,D0245,2025-03-03,Bradycardia Episode,Schedule Follow-up
+F00699,P0307,D0307,2024-02-22,Suspected AF,No Action Needed
+F00700,P0185,D0185,2024-07-09,No Significant Event,Device Check Required
+F00701,P0214,D0214,2025-01-08,Suspected AF,Urgent Clinical Review
+F00702,P0130,D0130,2024-07-25,Tachycardia Episode,No Action Needed
+F00703,P0004,D0004,2024-10-14,Tachycardia Episode,No Action Needed
+F00704,P0114,D0114,2025-09-25,No Significant Event,Urgent Clinical Review
+F00705,P0469,D0469,2024-02-06,No Significant Event,Schedule Follow-up
+F00706,P0169,D0169,2025-04-08,Suspected AF,Medication Review
+F00707,P0306,D0306,2024-05-25,Suspected AF,Schedule Follow-up
+F00708,P0422,D0422,2025-04-28,Bradycardia Episode,Device Check Required
+F00709,P0459,D0459,2024-06-29,Tachycardia Episode,Urgent Clinical Review
+F00710,P0274,D0274,2024-08-21,Battery Replacement Needed,Schedule Follow-up
+F00711,P0234,D0234,2025-10-08,No Significant Event,Device Check Required
+F00712,P0486,D0486,2026-01-11,Battery Replacement Needed,Urgent Clinical Review
+F00713,P0160,D0160,2024-10-12,Battery Replacement Needed,Medication Review
+F00714,P0040,D0040,2024-09-23,No Significant Event,Device Check Required
+F00715,P0481,D0481,2025-03-02,No Significant Event,Urgent Clinical Review
+F00716,P0438,D0438,2024-09-09,No Significant Event,Device Check Required
+F00717,P0032,D0032,2026-01-18,Battery Replacement Needed,Urgent Clinical Review
+F00718,P0007,D0007,2024-08-07,No Significant Event,Medication Review
+F00719,P0047,D0047,2024-01-31,Tachycardia Episode,Schedule Follow-up
+F00720,P0316,D0316,2026-03-28,Battery Replacement Needed,No Action Needed
+F00721,P0295,D0295,2026-03-11,Battery Replacement Needed,Medication Review
+F00722,P0278,D0278,2025-09-18,Battery Replacement Needed,No Action Needed
+F00723,P0170,D0170,2025-10-07,Tachycardia Episode,No Action Needed
+F00724,P0237,D0237,2025-11-11,Battery Replacement Needed,No Action Needed
+F00725,P0271,D0271,2025-08-26,Battery Replacement Needed,No Action Needed
+F00726,P0073,D0073,2025-09-06,Battery Replacement Needed,Urgent Clinical Review
+F00727,P0028,D0028,2026-01-11,Suspected AF,Medication Review
+F00728,P0168,D0168,2024-01-20,Battery Replacement Needed,Schedule Follow-up
+F00729,P0473,D0473,2024-08-24,Tachycardia Episode,Schedule Follow-up
+F00730,P0052,D0052,2025-03-24,No Significant Event,Medication Review
+F00731,P0365,D0365,2026-03-07,Bradycardia Episode,Medication Review
+F00732,P0134,D0134,2024-05-10,No Significant Event,Device Check Required
+F00733,P0113,D0113,2025-01-03,Battery Replacement Needed,Medication Review
+F00734,P0074,D0074,2024-05-19,Tachycardia Episode,Device Check Required
+F00735,P0349,D0349,2024-08-26,No Significant Event,Device Check Required
+F00736,P0123,D0123,2024-07-02,No Significant Event,Schedule Follow-up
+F00737,P0092,D0092,2024-04-14,Bradycardia Episode,Medication Review
+F00738,P0008,D0008,2024-08-31,No Significant Event,Medication Review
+F00739,P0426,D0426,2024-02-21,Suspected AF,Device Check Required
+F00740,P0221,D0221,2025-09-25,Battery Replacement Needed,Schedule Follow-up
+F00741,P0467,D0467,2026-03-06,No Significant Event,Urgent Clinical Review
+F00742,P0416,D0416,2025-03-29,Bradycardia Episode,Medication Review
+F00743,P0109,D0109,2024-04-08,Suspected AF,Device Check Required
+F00744,P0127,D0127,2024-12-12,Suspected AF,Device Check Required
+F00745,P0183,D0183,2024-01-05,Battery Replacement Needed,Device Check Required
+F00746,P0488,D0488,2024-06-26,Bradycardia Episode,Urgent Clinical Review
+F00747,P0106,D0106,2026-03-13,Bradycardia Episode,No Action Needed
+F00748,P0424,D0424,2024-08-18,No Significant Event,Urgent Clinical Review
+F00749,P0155,D0155,2025-03-11,Tachycardia Episode,No Action Needed
+F00750,P0023,D0023,2026-01-23,Bradycardia Episode,Device Check Required
+F00751,P0158,D0158,2024-11-27,No Significant Event,Urgent Clinical Review
+F00752,P0092,D0092,2025-02-19,Tachycardia Episode,Medication Review
+F00753,P0412,D0412,2025-05-05,Suspected AF,No Action Needed
+F00754,P0199,D0199,2025-06-08,Suspected AF,Schedule Follow-up
+F00755,P0271,D0271,2024-05-17,Suspected AF,Device Check Required
+F00756,P0375,D0375,2024-06-07,No Significant Event,Urgent Clinical Review
+F00757,P0050,D0050,2024-05-01,Battery Replacement Needed,No Action Needed
+F00758,P0043,D0043,2025-07-04,Bradycardia Episode,Device Check Required
+F00759,P0234,D0234,2024-12-03,Bradycardia Episode,No Action Needed
+F00760,P0230,D0230,2026-03-04,Tachycardia Episode,Schedule Follow-up
+F00761,P0276,D0276,2025-03-19,Battery Replacement Needed,Urgent Clinical Review
+F00762,P0428,D0428,2024-12-14,Suspected AF,Device Check Required
+F00763,P0499,D0499,2025-04-14,Tachycardia Episode,Medication Review
+F00764,P0179,D0179,2024-12-29,Battery Replacement Needed,Urgent Clinical Review
+F00765,P0346,D0346,2026-02-09,Battery Replacement Needed,No Action Needed
+F00766,P0162,D0162,2025-09-03,Tachycardia Episode,Device Check Required
+F00767,P0089,D0089,2025-08-22,Tachycardia Episode,Device Check Required
+F00768,P0286,D0286,2024-03-03,No Significant Event,Schedule Follow-up
+F00769,P0089,D0089,2024-07-21,Tachycardia Episode,Medication Review
+F00770,P0313,D0313,2024-11-09,Battery Replacement Needed,Urgent Clinical Review
+F00771,P0074,D0074,2026-03-23,Bradycardia Episode,No Action Needed
+F00772,P0427,D0427,2024-10-23,No Significant Event,Device Check Required
+F00773,P0021,D0021,2025-11-13,Suspected AF,Medication Review
+F00774,P0239,D0239,2024-07-20,Bradycardia Episode,Schedule Follow-up
+F00775,P0171,D0171,2024-10-30,Battery Replacement Needed,No Action Needed
+F00776,P0464,D0464,2025-03-04,No Significant Event,Device Check Required
+F00777,P0494,D0494,2024-07-21,Suspected AF,Device Check Required
+F00778,P0482,D0482,2025-04-24,Tachycardia Episode,Medication Review
+F00779,P0289,D0289,2025-12-26,Bradycardia Episode,Schedule Follow-up
+F00780,P0405,D0405,2024-07-04,No Significant Event,No Action Needed
+F00781,P0289,D0289,2024-07-09,Bradycardia Episode,Schedule Follow-up
+F00782,P0306,D0306,2025-10-23,Suspected AF,Urgent Clinical Review
+F00783,P0019,D0019,2025-05-06,No Significant Event,Urgent Clinical Review
+F00784,P0066,D0066,2024-04-04,Battery Replacement Needed,No Action Needed
+F00785,P0271,D0271,2024-08-26,Bradycardia Episode,Device Check Required
+F00786,P0085,D0085,2024-07-27,Suspected AF,Device Check Required
+F00787,P0175,D0175,2024-11-30,Suspected AF,No Action Needed
+F00788,P0058,D0058,2025-11-08,No Significant Event,Urgent Clinical Review
+F00789,P0484,D0484,2025-01-09,Battery Replacement Needed,Schedule Follow-up
+F00790,P0093,D0093,2026-01-16,Battery Replacement Needed,Medication Review
+F00791,P0233,D0233,2024-01-16,Battery Replacement Needed,Schedule Follow-up
+F00792,P0229,D0229,2024-08-28,No Significant Event,Device Check Required
+F00793,P0030,D0030,2024-04-13,Suspected AF,Medication Review
+F00794,P0280,D0280,2024-11-17,No Significant Event,Medication Review
+F00795,P0428,D0428,2024-03-30,No Significant Event,Medication Review
+F00796,P0253,D0253,2025-10-27,Tachycardia Episode,Schedule Follow-up
+F00797,P0483,D0483,2025-11-19,Bradycardia Episode,Schedule Follow-up
+F00798,P0282,D0282,2024-03-08,Tachycardia Episode,No Action Needed
+F00799,P0286,D0286,2025-09-11,Suspected AF,Device Check Required
+F00800,P0262,D0262,2024-08-23,No Significant Event,Medication Review
+F00801,P0010,D0010,2024-09-24,Tachycardia Episode,No Action Needed
+F00802,P0271,D0271,2025-12-19,Bradycardia Episode,Medication Review
+F00803,P0133,D0133,2024-08-04,No Significant Event,Urgent Clinical Review
+F00804,P0355,D0355,2024-06-19,Bradycardia Episode,Medication Review
+F00805,P0018,D0018,2024-04-20,Tachycardia Episode,Device Check Required
+F00806,P0294,D0294,2025-07-11,Battery Replacement Needed,Schedule Follow-up
+F00807,P0269,D0269,2025-12-06,No Significant Event,No Action Needed
+F00808,P0002,D0002,2025-02-11,Battery Replacement Needed,Schedule Follow-up
+F00809,P0020,D0020,2025-08-06,Battery Replacement Needed,Medication Review
+F00810,P0097,D0097,2024-12-15,Battery Replacement Needed,No Action Needed
+F00811,P0429,D0429,2024-06-26,Battery Replacement Needed,Medication Review
+F00812,P0405,D0405,2024-12-20,Tachycardia Episode,No Action Needed
+F00813,P0404,D0404,2025-11-21,Battery Replacement Needed,Device Check Required
+F00814,P0291,D0291,2025-08-09,Suspected AF,Urgent Clinical Review
+F00815,P0274,D0274,2025-11-10,Battery Replacement Needed,No Action Needed
+F00816,P0245,D0245,2025-03-13,No Significant Event,Medication Review
+F00817,P0244,D0244,2024-10-27,Battery Replacement Needed,Urgent Clinical Review
+F00818,P0125,D0125,2024-07-19,Suspected AF,Medication Review
+F00819,P0324,D0324,2024-11-25,No Significant Event,Device Check Required
+F00820,P0342,D0342,2024-12-12,Suspected AF,Schedule Follow-up
+F00821,P0136,D0136,2024-08-10,Battery Replacement Needed,Device Check Required
+F00822,P0047,D0047,2024-04-23,No Significant Event,Device Check Required
+F00823,P0357,D0357,2025-04-22,Bradycardia Episode,Device Check Required
+F00824,P0463,D0463,2024-03-24,Tachycardia Episode,No Action Needed
+F00825,P0327,D0327,2025-03-15,Suspected AF,Medication Review
+F00826,P0108,D0108,2024-10-06,No Significant Event,Schedule Follow-up
+F00827,P0467,D0467,2025-04-08,Suspected AF,Device Check Required
+F00828,P0416,D0416,2026-02-09,No Significant Event,Device Check Required
+F00829,P0032,D0032,2025-04-25,Suspected AF,Schedule Follow-up
+F00830,P0209,D0209,2025-05-25,Bradycardia Episode,Device Check Required
+F00831,P0106,D0106,2024-01-05,Tachycardia Episode,Urgent Clinical Review
+F00832,P0199,D0199,2026-02-09,Bradycardia Episode,Schedule Follow-up
+F00833,P0399,D0399,2024-03-20,No Significant Event,No Action Needed
+F00834,P0040,D0040,2025-04-09,Battery Replacement Needed,Urgent Clinical Review
+F00835,P0338,D0338,2024-11-05,Suspected AF,Device Check Required
+F00836,P0051,D0051,2025-09-28,Tachycardia Episode,Schedule Follow-up
+F00837,P0010,D0010,2025-08-31,Tachycardia Episode,Device Check Required
+F00838,P0214,D0214,2024-05-24,Suspected AF,Medication Review
+F00839,P0368,D0368,2024-04-01,Battery Replacement Needed,Device Check Required
+F00840,P0200,D0200,2024-06-22,Battery Replacement Needed,Schedule Follow-up
+F00841,P0245,D0245,2024-03-07,Battery Replacement Needed,No Action Needed
+F00842,P0079,D0079,2025-10-22,Tachycardia Episode,Device Check Required
+F00843,P0058,D0058,2025-07-19,Tachycardia Episode,Medication Review
+F00844,P0446,D0446,2026-01-31,Battery Replacement Needed,Device Check Required
+F00845,P0072,D0072,2025-12-07,Bradycardia Episode,Device Check Required
+F00846,P0456,D0456,2024-09-21,Suspected AF,No Action Needed
+F00847,P0299,D0299,2025-09-14,No Significant Event,Medication Review
+F00848,P0024,D0024,2024-12-18,No Significant Event,No Action Needed
+F00849,P0361,D0361,2025-04-08,Bradycardia Episode,Medication Review
+F00850,P0393,D0393,2026-03-29,Suspected AF,Medication Review
+F00851,P0067,D0067,2025-02-04,Suspected AF,Device Check Required
+F00852,P0375,D0375,2024-04-24,Bradycardia Episode,Schedule Follow-up
+F00853,P0273,D0273,2025-07-08,Bradycardia Episode,No Action Needed
+F00854,P0008,D0008,2024-08-20,Battery Replacement Needed,Device Check Required
+F00855,P0313,D0313,2024-05-08,Tachycardia Episode,Device Check Required
+F00856,P0182,D0182,2024-12-10,Bradycardia Episode,Medication Review
+F00857,P0467,D0467,2025-03-26,Tachycardia Episode,Urgent Clinical Review
+F00858,P0435,D0435,2025-10-09,Suspected AF,Urgent Clinical Review
+F00859,P0474,D0474,2024-10-28,Suspected AF,Medication Review
+F00860,P0335,D0335,2024-05-12,Bradycardia Episode,No Action Needed
+F00861,P0188,D0188,2025-09-23,Bradycardia Episode,Device Check Required
+F00862,P0421,D0421,2024-07-20,Tachycardia Episode,No Action Needed
+F00863,P0208,D0208,2024-08-11,Battery Replacement Needed,Medication Review
+F00864,P0147,D0147,2025-10-23,Bradycardia Episode,Schedule Follow-up
+F00865,P0485,D0485,2025-06-03,Battery Replacement Needed,Schedule Follow-up
+F00866,P0108,D0108,2024-07-13,Suspected AF,Schedule Follow-up
+F00867,P0165,D0165,2024-06-01,Battery Replacement Needed,Urgent Clinical Review
+F00868,P0107,D0107,2025-03-13,Tachycardia Episode,Urgent Clinical Review
+F00869,P0417,D0417,2024-08-09,Bradycardia Episode,Schedule Follow-up
+F00870,P0042,D0042,2025-01-02,Battery Replacement Needed,Medication Review
+F00871,P0407,D0407,2025-09-24,Battery Replacement Needed,No Action Needed
+F00872,P0456,D0456,2025-09-13,Tachycardia Episode,Device Check Required
+F00873,P0257,D0257,2025-02-23,No Significant Event,Urgent Clinical Review
+F00874,P0370,D0370,2025-01-05,Battery Replacement Needed,Device Check Required
+F00875,P0046,D0046,2025-12-21,Battery Replacement Needed,Schedule Follow-up
+F00876,P0439,D0439,2024-05-25,Bradycardia Episode,Medication Review
+F00877,P0254,D0254,2024-08-20,Tachycardia Episode,Device Check Required
+F00878,P0313,D0313,2024-07-19,Tachycardia Episode,Device Check Required
+F00879,P0399,D0399,2024-06-29,Battery Replacement Needed,Device Check Required
+F00880,P0206,D0206,2024-04-09,Suspected AF,Device Check Required
+F00881,P0076,D0076,2024-04-28,Tachycardia Episode,Medication Review
+F00882,P0456,D0456,2024-08-05,Bradycardia Episode,Urgent Clinical Review
+F00883,P0203,D0203,2026-02-14,Bradycardia Episode,Medication Review
+F00884,P0341,D0341,2024-07-18,Battery Replacement Needed,Medication Review
+F00885,P0310,D0310,2025-01-13,Suspected AF,Device Check Required
+F00886,P0346,D0346,2025-11-12,Battery Replacement Needed,Urgent Clinical Review
+F00887,P0306,D0306,2025-09-22,Bradycardia Episode,Urgent Clinical Review
+F00888,P0281,D0281,2026-03-08,No Significant Event,Urgent Clinical Review
+F00889,P0030,D0030,2024-09-26,Battery Replacement Needed,Device Check Required
+F00890,P0105,D0105,2024-08-29,Suspected AF,Urgent Clinical Review
+F00891,P0355,D0355,2025-08-10,Tachycardia Episode,Schedule Follow-up
+F00892,P0292,D0292,2025-06-17,Bradycardia Episode,Medication Review
+F00893,P0383,D0383,2025-12-12,Bradycardia Episode,No Action Needed
+F00894,P0492,D0492,2025-04-02,Battery Replacement Needed,Schedule Follow-up
+F00895,P0286,D0286,2025-12-18,Battery Replacement Needed,Medication Review
+F00896,P0082,D0082,2024-08-12,Suspected AF,Medication Review
+F00897,P0045,D0045,2025-08-02,Suspected AF,Medication Review
+F00898,P0005,D0005,2024-06-11,Suspected AF,Medication Review
+F00899,P0460,D0460,2024-09-15,Bradycardia Episode,No Action Needed
+F00900,P0260,D0260,2025-08-16,Tachycardia Episode,Device Check Required
+F00901,P0100,D0100,2025-02-02,No Significant Event,Medication Review
+F00902,P0212,D0212,2024-05-26,Battery Replacement Needed,Medication Review
+F00903,P0317,D0317,2025-05-21,Bradycardia Episode,No Action Needed
+F00904,P0115,D0115,2024-11-12,Suspected AF,Medication Review
+F00905,P0381,D0381,2024-06-11,Tachycardia Episode,Device Check Required
+F00906,P0032,D0032,2026-03-20,Suspected AF,Schedule Follow-up
+F00907,P0290,D0290,2025-01-12,Bradycardia Episode,Device Check Required
+F00908,P0445,D0445,2025-03-17,Tachycardia Episode,Schedule Follow-up
+F00909,P0415,D0415,2024-02-21,Tachycardia Episode,Device Check Required
+F00910,P0105,D0105,2025-08-07,Battery Replacement Needed,Device Check Required
+F00911,P0027,D0027,2024-11-24,Suspected AF,No Action Needed
+F00912,P0390,D0390,2025-08-19,Suspected AF,Device Check Required
+F00913,P0278,D0278,2025-12-21,Bradycardia Episode,No Action Needed
+F00914,P0151,D0151,2025-09-28,Bradycardia Episode,No Action Needed
+F00915,P0226,D0226,2025-05-14,No Significant Event,Schedule Follow-up
+F00916,P0212,D0212,2024-10-14,Tachycardia Episode,No Action Needed
+F00917,P0215,D0215,2025-01-06,Suspected AF,Medication Review
+F00918,P0302,D0302,2024-05-01,Suspected AF,Device Check Required
+F00919,P0068,D0068,2024-02-21,Battery Replacement Needed,Schedule Follow-up
+F00920,P0236,D0236,2025-07-31,No Significant Event,Schedule Follow-up
+F00921,P0484,D0484,2024-02-23,Battery Replacement Needed,Schedule Follow-up
+F00922,P0464,D0464,2024-11-21,Suspected AF,Schedule Follow-up
+F00923,P0414,D0414,2025-09-25,Suspected AF,No Action Needed
+F00924,P0356,D0356,2024-07-02,Battery Replacement Needed,Medication Review
+F00925,P0391,D0391,2024-02-15,Suspected AF,No Action Needed
+F00926,P0281,D0281,2024-11-07,Tachycardia Episode,Medication Review
+F00927,P0330,D0330,2025-11-21,Tachycardia Episode,Schedule Follow-up
+F00928,P0052,D0052,2025-09-23,Battery Replacement Needed,No Action Needed
+F00929,P0064,D0064,2025-12-26,Bradycardia Episode,Medication Review
+F00930,P0268,D0268,2024-11-25,No Significant Event,Schedule Follow-up
+F00931,P0218,D0218,2025-05-08,Battery Replacement Needed,Schedule Follow-up
+F00932,P0016,D0016,2025-12-11,Battery Replacement Needed,No Action Needed
+F00933,P0041,D0041,2024-09-15,Battery Replacement Needed,Device Check Required
+F00934,P0261,D0261,2024-12-19,Tachycardia Episode,Medication Review
+F00935,P0261,D0261,2024-11-16,Tachycardia Episode,Urgent Clinical Review
+F00936,P0424,D0424,2024-10-16,Bradycardia Episode,Schedule Follow-up
+F00937,P0415,D0415,2025-01-26,No Significant Event,Schedule Follow-up
+F00938,P0316,D0316,2024-08-03,No Significant Event,Urgent Clinical Review
+F00939,P0319,D0319,2025-07-11,Bradycardia Episode,Device Check Required
+F00940,P0362,D0362,2024-12-16,Suspected AF,Urgent Clinical Review
+F00941,P0090,D0090,2024-02-13,No Significant Event,Medication Review
+F00942,P0005,D0005,2025-07-28,No Significant Event,No Action Needed
+F00943,P0090,D0090,2025-07-26,No Significant Event,Medication Review
+F00944,P0413,D0413,2024-04-01,No Significant Event,No Action Needed
+F00945,P0155,D0155,2024-04-30,Tachycardia Episode,No Action Needed
+F00946,P0007,D0007,2025-02-19,Bradycardia Episode,Medication Review
+F00947,P0030,D0030,2025-08-18,Suspected AF,Schedule Follow-up
+F00948,P0332,D0332,2025-01-09,Battery Replacement Needed,Schedule Follow-up
+F00949,P0450,D0450,2024-10-24,Suspected AF,Device Check Required
+F00950,P0213,D0213,2025-11-30,Tachycardia Episode,Schedule Follow-up
+F00951,P0376,D0376,2024-07-27,Bradycardia Episode,Schedule Follow-up
+F00952,P0118,D0118,2026-02-07,Suspected AF,Device Check Required
+F00953,P0480,D0480,2024-04-23,Battery Replacement Needed,Schedule Follow-up
+F00954,P0247,D0247,2024-04-12,Battery Replacement Needed,Schedule Follow-up
+F00955,P0183,D0183,2024-04-04,Tachycardia Episode,No Action Needed
+F00956,P0261,D0261,2025-03-20,No Significant Event,Urgent Clinical Review
+F00957,P0321,D0321,2024-06-17,No Significant Event,No Action Needed
+F00958,P0499,D0499,2025-06-24,Tachycardia Episode,Device Check Required
+F00959,P0007,D0007,2025-10-12,Battery Replacement Needed,No Action Needed
+F00960,P0099,D0099,2025-11-22,Suspected AF,No Action Needed
+F00961,P0438,D0438,2025-07-11,Suspected AF,Schedule Follow-up
+F00962,P0306,D0306,2024-08-29,Battery Replacement Needed,Urgent Clinical Review
+F00963,P0425,D0425,2024-09-03,Tachycardia Episode,Urgent Clinical Review
+F00964,P0196,D0196,2025-11-27,Tachycardia Episode,No Action Needed
+F00965,P0479,D0479,2026-02-27,No Significant Event,Medication Review
+F00966,P0329,D0329,2025-04-05,Battery Replacement Needed,Medication Review
+F00967,P0089,D0089,2024-09-02,Bradycardia Episode,Device Check Required
+F00968,P0115,D0115,2024-11-13,Bradycardia Episode,No Action Needed
+F00969,P0074,D0074,2024-03-12,Battery Replacement Needed,Schedule Follow-up
+F00970,P0126,D0126,2024-12-23,Bradycardia Episode,Device Check Required
+F00971,P0383,D0383,2025-12-11,No Significant Event,Urgent Clinical Review
+F00972,P0046,D0046,2025-02-04,No Significant Event,Urgent Clinical Review
+F00973,P0098,D0098,2025-08-02,Tachycardia Episode,Schedule Follow-up
+F00974,P0088,D0088,2024-11-09,Suspected AF,Schedule Follow-up
+F00975,P0286,D0286,2024-08-25,Battery Replacement Needed,Medication Review
+F00976,P0056,D0056,2025-09-29,No Significant Event,No Action Needed
+F00977,P0203,D0203,2024-08-18,Suspected AF,Device Check Required
+F00978,P0406,D0406,2025-10-10,Bradycardia Episode,Urgent Clinical Review
+F00979,P0405,D0405,2024-03-18,Bradycardia Episode,Medication Review
+F00980,P0262,D0262,2024-01-11,Battery Replacement Needed,No Action Needed
+F00981,P0384,D0384,2025-09-07,Suspected AF,Schedule Follow-up
+F00982,P0429,D0429,2025-09-29,Bradycardia Episode,Device Check Required
+F00983,P0164,D0164,2024-05-21,Battery Replacement Needed,Device Check Required
+F00984,P0323,D0323,2025-09-22,No Significant Event,Urgent Clinical Review
+F00985,P0078,D0078,2024-12-14,No Significant Event,Urgent Clinical Review
+F00986,P0314,D0314,2025-10-16,Suspected AF,No Action Needed
+F00987,P0287,D0287,2025-01-27,Tachycardia Episode,Schedule Follow-up
+F00988,P0003,D0003,2024-08-13,No Significant Event,Urgent Clinical Review
+F00989,P0480,D0480,2024-07-07,Tachycardia Episode,Device Check Required
+F00990,P0292,D0292,2024-11-23,No Significant Event,Medication Review
+F00991,P0029,D0029,2025-07-07,Suspected AF,Schedule Follow-up
+F00992,P0137,D0137,2025-12-09,Bradycardia Episode,Urgent Clinical Review
+F00993,P0259,D0259,2025-02-02,Tachycardia Episode,Urgent Clinical Review
+F00994,P0321,D0321,2025-09-22,Battery Replacement Needed,Schedule Follow-up
+F00995,P0083,D0083,2024-08-29,Battery Replacement Needed,Medication Review
+F00996,P0388,D0388,2025-07-14,Bradycardia Episode,Medication Review
+F00997,P0358,D0358,2026-01-26,No Significant Event,No Action Needed
+F00998,P0369,D0369,2024-03-16,Suspected AF,No Action Needed
+F00999,P0293,D0293,2025-10-11,Bradycardia Episode,Medication Review
+F01000,P0497,D0497,2024-11-06,Bradycardia Episode,Urgent Clinical Review

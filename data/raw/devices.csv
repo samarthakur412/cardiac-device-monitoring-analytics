@@ -1,0 +1,501 @@
+device_id,patient_id,device_type,manufacturer,implant_date,device_status
+D0001,P0001,Loop Recorder,Medtronic,2018-12-23,Active
+D0002,P0002,CRT-D,Biotronik,2020-05-09,Active
+D0003,P0003,ICD,Boston Scientific,2024-11-28,Active
+D0004,P0004,CRT-D,Abbott,2018-09-01,Active
+D0005,P0005,CRT-D,Abbott,2021-08-18,Active
+D0006,P0006,Pacemaker,Boston Scientific,2023-10-09,Inactive
+D0007,P0007,CRT-D,Boston Scientific,2018-08-31,Active
+D0008,P0008,ICD,Abbott,2020-10-19,Active
+D0009,P0009,Loop Recorder,Biotronik,2025-08-01,Active
+D0010,P0010,CRT-D,Biotronik,2024-06-23,Inactive
+D0011,P0011,Pacemaker,Medtronic,2023-01-26,Inactive
+D0012,P0012,CRT-D,Abbott,2023-10-13,Inactive
+D0013,P0013,CRT-D,Medtronic,2023-06-23,Active
+D0014,P0014,CRT-D,Medtronic,2023-02-21,Inactive
+D0015,P0015,Loop Recorder,Boston Scientific,2020-06-11,Inactive
+D0016,P0016,CRT-D,Abbott,2021-01-04,Active
+D0017,P0017,ICD,Biotronik,2024-02-20,Active
+D0018,P0018,Pacemaker,Medtronic,2025-08-27,Active
+D0019,P0019,Loop Recorder,Medtronic,2025-01-08,Active
+D0020,P0020,Loop Recorder,Biotronik,2019-10-10,Active
+D0021,P0021,ICD,Boston Scientific,2022-10-19,Active
+D0022,P0022,CRT-D,Medtronic,2019-10-14,Active
+D0023,P0023,Pacemaker,Abbott,2020-10-22,Active
+D0024,P0024,Loop Recorder,Abbott,2018-08-01,Active
+D0025,P0025,Pacemaker,Medtronic,2022-10-25,Active
+D0026,P0026,Loop Recorder,Medtronic,2020-05-24,Active
+D0027,P0027,ICD,Biotronik,2024-08-28,Active
+D0028,P0028,CRT-D,Medtronic,2018-02-03,Inactive
+D0029,P0029,ICD,Biotronik,2025-10-13,Active
+D0030,P0030,Loop Recorder,Medtronic,2020-07-26,Active
+D0031,P0031,CRT-D,Abbott,2019-02-27,Active
+D0032,P0032,Loop Recorder,Boston Scientific,2019-07-16,Active
+D0033,P0033,Pacemaker,Boston Scientific,2018-10-08,Inactive
+D0034,P0034,ICD,Boston Scientific,2021-12-09,Inactive
+D0035,P0035,Loop Recorder,Boston Scientific,2024-11-28,Active
+D0036,P0036,ICD,Medtronic,2019-02-16,Inactive
+D0037,P0037,Loop Recorder,Abbott,2021-12-10,Active
+D0038,P0038,CRT-D,Medtronic,2020-10-11,Active
+D0039,P0039,CRT-D,Medtronic,2024-03-16,Active
+D0040,P0040,ICD,Biotronik,2020-04-21,Active
+D0041,P0041,Pacemaker,Boston Scientific,2025-03-31,Inactive
+D0042,P0042,Pacemaker,Boston Scientific,2022-04-30,Inactive
+D0043,P0043,Pacemaker,Medtronic,2025-02-26,Active
+D0044,P0044,ICD,Biotronik,2021-07-20,Inactive
+D0045,P0045,ICD,Biotronik,2022-02-05,Active
+D0046,P0046,Pacemaker,Medtronic,2018-03-10,Active
+D0047,P0047,Pacemaker,Medtronic,2020-06-02,Inactive
+D0048,P0048,CRT-D,Biotronik,2023-09-07,Inactive
+D0049,P0049,Loop Recorder,Medtronic,2025-11-14,Active
+D0050,P0050,Pacemaker,Abbott,2021-02-10,Active
+D0051,P0051,ICD,Boston Scientific,2023-09-26,Active
+D0052,P0052,Pacemaker,Abbott,2022-05-20,Inactive
+D0053,P0053,Pacemaker,Boston Scientific,2020-09-04,Active
+D0054,P0054,Pacemaker,Biotronik,2022-11-15,Active
+D0055,P0055,ICD,Medtronic,2021-06-20,Active
+D0056,P0056,ICD,Medtronic,2025-12-09,Active
+D0057,P0057,CRT-D,Abbott,2023-07-27,Active
+D0058,P0058,ICD,Abbott,2022-03-04,Active
+D0059,P0059,CRT-D,Biotronik,2018-05-01,Active
+D0060,P0060,Pacemaker,Abbott,2023-11-16,Active
+D0061,P0061,Loop Recorder,Abbott,2023-07-26,Active
+D0062,P0062,ICD,Abbott,2023-08-09,Active
+D0063,P0063,Pacemaker,Medtronic,2020-11-10,Active
+D0064,P0064,Pacemaker,Medtronic,2023-09-16,Active
+D0065,P0065,Pacemaker,Biotronik,2020-09-28,Active
+D0066,P0066,ICD,Boston Scientific,2022-04-18,Active
+D0067,P0067,Loop Recorder,Boston Scientific,2024-03-14,Active
+D0068,P0068,Loop Recorder,Abbott,2020-10-13,Active
+D0069,P0069,CRT-D,Medtronic,2018-11-16,Active
+D0070,P0070,ICD,Medtronic,2020-01-05,Inactive
+D0071,P0071,Loop Recorder,Abbott,2018-10-10,Active
+D0072,P0072,Pacemaker,Biotronik,2021-09-02,Active
+D0073,P0073,ICD,Abbott,2022-02-20,Active
+D0074,P0074,ICD,Biotronik,2024-12-25,Active
+D0075,P0075,Loop Recorder,Boston Scientific,2024-08-20,Active
+D0076,P0076,Pacemaker,Biotronik,2019-09-09,Active
+D0077,P0077,CRT-D,Medtronic,2020-08-12,Active
+D0078,P0078,Loop Recorder,Abbott,2018-01-06,Active
+D0079,P0079,ICD,Biotronik,2020-04-20,Inactive
+D0080,P0080,ICD,Abbott,2018-09-03,Active
+D0081,P0081,ICD,Biotronik,2018-06-29,Active
+D0082,P0082,Pacemaker,Medtronic,2023-02-21,Active
+D0083,P0083,Loop Recorder,Medtronic,2025-02-23,Active
+D0084,P0084,ICD,Boston Scientific,2022-11-17,Active
+D0085,P0085,CRT-D,Biotronik,2020-12-05,Active
+D0086,P0086,Loop Recorder,Abbott,2021-07-26,Active
+D0087,P0087,ICD,Boston Scientific,2018-11-02,Active
+D0088,P0088,Pacemaker,Boston Scientific,2019-09-29,Inactive
+D0089,P0089,CRT-D,Biotronik,2023-03-24,Active
+D0090,P0090,CRT-D,Boston Scientific,2024-01-05,Inactive
+D0091,P0091,Loop Recorder,Abbott,2021-06-16,Active
+D0092,P0092,ICD,Abbott,2019-01-06,Active
+D0093,P0093,CRT-D,Boston Scientific,2020-05-30,Active
+D0094,P0094,ICD,Abbott,2025-12-22,Inactive
+D0095,P0095,Pacemaker,Abbott,2023-10-05,Active
+D0096,P0096,Pacemaker,Biotronik,2019-12-14,Inactive
+D0097,P0097,ICD,Medtronic,2024-03-27,Inactive
+D0098,P0098,ICD,Medtronic,2019-02-22,Active
+D0099,P0099,ICD,Boston Scientific,2018-09-10,Active
+D0100,P0100,CRT-D,Medtronic,2022-06-29,Active
+D0101,P0101,Pacemaker,Medtronic,2018-11-04,Active
+D0102,P0102,Loop Recorder,Boston Scientific,2025-03-30,Active
+D0103,P0103,Pacemaker,Medtronic,2021-09-20,Inactive
+D0104,P0104,ICD,Biotronik,2018-07-27,Inactive
+D0105,P0105,Pacemaker,Biotronik,2023-07-26,Inactive
+D0106,P0106,CRT-D,Boston Scientific,2019-12-09,Active
+D0107,P0107,CRT-D,Biotronik,2021-01-31,Active
+D0108,P0108,ICD,Abbott,2018-05-22,Inactive
+D0109,P0109,Loop Recorder,Medtronic,2022-08-15,Active
+D0110,P0110,Loop Recorder,Boston Scientific,2021-02-19,Inactive
+D0111,P0111,ICD,Medtronic,2020-03-27,Inactive
+D0112,P0112,CRT-D,Biotronik,2025-12-31,Inactive
+D0113,P0113,CRT-D,Biotronik,2021-11-10,Active
+D0114,P0114,Pacemaker,Abbott,2020-01-07,Active
+D0115,P0115,CRT-D,Medtronic,2018-05-01,Inactive
+D0116,P0116,CRT-D,Boston Scientific,2023-12-09,Active
+D0117,P0117,ICD,Boston Scientific,2019-02-15,Active
+D0118,P0118,Pacemaker,Boston Scientific,2023-12-26,Inactive
+D0119,P0119,ICD,Boston Scientific,2021-12-24,Active
+D0120,P0120,CRT-D,Abbott,2024-08-23,Active
+D0121,P0121,CRT-D,Boston Scientific,2025-11-21,Active
+D0122,P0122,CRT-D,Boston Scientific,2023-07-10,Inactive
+D0123,P0123,Pacemaker,Medtronic,2018-06-05,Active
+D0124,P0124,ICD,Medtronic,2024-09-30,Inactive
+D0125,P0125,CRT-D,Boston Scientific,2018-01-03,Active
+D0126,P0126,ICD,Abbott,2021-10-27,Active
+D0127,P0127,ICD,Boston Scientific,2018-03-31,Active
+D0128,P0128,CRT-D,Medtronic,2023-11-26,Active
+D0129,P0129,Loop Recorder,Medtronic,2025-11-25,Active
+D0130,P0130,CRT-D,Boston Scientific,2021-05-21,Active
+D0131,P0131,Loop Recorder,Abbott,2022-11-25,Active
+D0132,P0132,CRT-D,Boston Scientific,2025-12-06,Active
+D0133,P0133,CRT-D,Abbott,2022-03-30,Active
+D0134,P0134,Pacemaker,Biotronik,2019-12-29,Active
+D0135,P0135,CRT-D,Boston Scientific,2020-01-16,Active
+D0136,P0136,ICD,Abbott,2023-07-26,Active
+D0137,P0137,CRT-D,Abbott,2020-09-01,Active
+D0138,P0138,Pacemaker,Abbott,2025-02-18,Inactive
+D0139,P0139,CRT-D,Boston Scientific,2018-02-16,Active
+D0140,P0140,Pacemaker,Abbott,2025-10-10,Active
+D0141,P0141,Pacemaker,Medtronic,2019-03-19,Inactive
+D0142,P0142,Loop Recorder,Boston Scientific,2022-11-30,Inactive
+D0143,P0143,Loop Recorder,Abbott,2023-07-13,Inactive
+D0144,P0144,Loop Recorder,Boston Scientific,2019-02-20,Active
+D0145,P0145,Pacemaker,Medtronic,2023-01-23,Active
+D0146,P0146,CRT-D,Abbott,2018-03-24,Active
+D0147,P0147,CRT-D,Boston Scientific,2018-10-31,Inactive
+D0148,P0148,Pacemaker,Medtronic,2019-10-22,Active
+D0149,P0149,Loop Recorder,Medtronic,2024-08-30,Inactive
+D0150,P0150,ICD,Biotronik,2025-05-01,Active
+D0151,P0151,Pacemaker,Abbott,2018-08-08,Active
+D0152,P0152,Loop Recorder,Abbott,2020-02-18,Active
+D0153,P0153,ICD,Medtronic,2021-05-03,Active
+D0154,P0154,Loop Recorder,Boston Scientific,2022-05-29,Active
+D0155,P0155,Pacemaker,Biotronik,2022-01-17,Active
+D0156,P0156,Loop Recorder,Boston Scientific,2021-04-21,Active
+D0157,P0157,ICD,Boston Scientific,2018-04-16,Active
+D0158,P0158,Loop Recorder,Medtronic,2018-12-02,Active
+D0159,P0159,Loop Recorder,Biotronik,2022-06-17,Active
+D0160,P0160,Loop Recorder,Boston Scientific,2019-01-09,Active
+D0161,P0161,CRT-D,Boston Scientific,2022-04-12,Inactive
+D0162,P0162,CRT-D,Biotronik,2018-07-02,Inactive
+D0163,P0163,ICD,Abbott,2020-12-14,Active
+D0164,P0164,Pacemaker,Medtronic,2019-09-12,Active
+D0165,P0165,Loop Recorder,Boston Scientific,2024-01-27,Active
+D0166,P0166,Loop Recorder,Biotronik,2022-05-05,Active
+D0167,P0167,CRT-D,Medtronic,2023-05-05,Inactive
+D0168,P0168,ICD,Medtronic,2018-05-23,Inactive
+D0169,P0169,ICD,Boston Scientific,2019-12-10,Active
+D0170,P0170,Pacemaker,Biotronik,2019-06-01,Active
+D0171,P0171,Loop Recorder,Boston Scientific,2025-08-30,Active
+D0172,P0172,CRT-D,Abbott,2024-09-03,Active
+D0173,P0173,Loop Recorder,Biotronik,2018-12-23,Active
+D0174,P0174,Loop Recorder,Medtronic,2021-02-05,Inactive
+D0175,P0175,Loop Recorder,Boston Scientific,2019-04-06,Active
+D0176,P0176,Pacemaker,Medtronic,2024-05-09,Active
+D0177,P0177,CRT-D,Biotronik,2021-03-17,Active
+D0178,P0178,Loop Recorder,Biotronik,2022-04-18,Active
+D0179,P0179,CRT-D,Biotronik,2019-12-07,Active
+D0180,P0180,Loop Recorder,Medtronic,2024-12-07,Inactive
+D0181,P0181,ICD,Medtronic,2021-09-19,Inactive
+D0182,P0182,CRT-D,Medtronic,2021-01-05,Active
+D0183,P0183,CRT-D,Abbott,2021-05-26,Inactive
+D0184,P0184,Pacemaker,Boston Scientific,2025-10-22,Active
+D0185,P0185,Loop Recorder,Abbott,2021-05-15,Active
+D0186,P0186,Pacemaker,Boston Scientific,2022-09-04,Inactive
+D0187,P0187,Loop Recorder,Biotronik,2020-05-15,Active
+D0188,P0188,ICD,Medtronic,2018-08-19,Active
+D0189,P0189,Loop Recorder,Boston Scientific,2025-12-16,Active
+D0190,P0190,ICD,Boston Scientific,2019-12-13,Active
+D0191,P0191,Pacemaker,Biotronik,2020-10-18,Active
+D0192,P0192,ICD,Abbott,2022-01-16,Active
+D0193,P0193,Loop Recorder,Medtronic,2023-03-17,Active
+D0194,P0194,CRT-D,Biotronik,2020-09-17,Inactive
+D0195,P0195,Loop Recorder,Abbott,2019-12-29,Active
+D0196,P0196,CRT-D,Medtronic,2019-11-01,Active
+D0197,P0197,Loop Recorder,Medtronic,2018-04-23,Active
+D0198,P0198,ICD,Boston Scientific,2024-06-01,Active
+D0199,P0199,ICD,Abbott,2025-08-07,Inactive
+D0200,P0200,Pacemaker,Medtronic,2023-10-04,Inactive
+D0201,P0201,ICD,Medtronic,2019-06-26,Active
+D0202,P0202,CRT-D,Abbott,2020-10-30,Inactive
+D0203,P0203,CRT-D,Biotronik,2022-03-23,Active
+D0204,P0204,Loop Recorder,Abbott,2020-06-12,Inactive
+D0205,P0205,Pacemaker,Medtronic,2024-07-22,Active
+D0206,P0206,CRT-D,Abbott,2024-04-18,Active
+D0207,P0207,Pacemaker,Abbott,2023-05-28,Active
+D0208,P0208,CRT-D,Abbott,2025-03-08,Active
+D0209,P0209,CRT-D,Boston Scientific,2025-05-11,Active
+D0210,P0210,ICD,Medtronic,2023-10-20,Inactive
+D0211,P0211,CRT-D,Boston Scientific,2025-05-29,Active
+D0212,P0212,Loop Recorder,Abbott,2025-05-08,Active
+D0213,P0213,Loop Recorder,Biotronik,2022-09-11,Active
+D0214,P0214,ICD,Abbott,2024-07-16,Active
+D0215,P0215,Loop Recorder,Abbott,2025-09-12,Active
+D0216,P0216,ICD,Abbott,2019-11-28,Active
+D0217,P0217,ICD,Abbott,2023-04-13,Active
+D0218,P0218,CRT-D,Medtronic,2025-08-16,Active
+D0219,P0219,ICD,Abbott,2021-12-26,Inactive
+D0220,P0220,CRT-D,Abbott,2021-09-19,Active
+D0221,P0221,Pacemaker,Biotronik,2023-03-15,Active
+D0222,P0222,Pacemaker,Biotronik,2025-02-11,Active
+D0223,P0223,Pacemaker,Biotronik,2023-08-12,Active
+D0224,P0224,Pacemaker,Boston Scientific,2022-08-20,Active
+D0225,P0225,CRT-D,Biotronik,2020-03-31,Inactive
+D0226,P0226,CRT-D,Boston Scientific,2019-08-10,Active
+D0227,P0227,CRT-D,Boston Scientific,2023-06-21,Active
+D0228,P0228,Pacemaker,Medtronic,2025-02-11,Inactive
+D0229,P0229,ICD,Boston Scientific,2021-01-25,Active
+D0230,P0230,Pacemaker,Boston Scientific,2023-06-29,Inactive
+D0231,P0231,Loop Recorder,Biotronik,2025-02-07,Inactive
+D0232,P0232,Loop Recorder,Medtronic,2023-05-10,Active
+D0233,P0233,ICD,Abbott,2023-12-27,Active
+D0234,P0234,ICD,Medtronic,2021-08-12,Active
+D0235,P0235,ICD,Boston Scientific,2025-01-10,Active
+D0236,P0236,ICD,Medtronic,2021-07-02,Inactive
+D0237,P0237,CRT-D,Boston Scientific,2023-08-24,Active
+D0238,P0238,CRT-D,Abbott,2018-07-07,Inactive
+D0239,P0239,CRT-D,Biotronik,2023-11-02,Active
+D0240,P0240,Loop Recorder,Abbott,2021-11-04,Active
+D0241,P0241,Loop Recorder,Medtronic,2019-11-07,Active
+D0242,P0242,ICD,Boston Scientific,2020-07-07,Active
+D0243,P0243,ICD,Medtronic,2024-08-12,Active
+D0244,P0244,Pacemaker,Biotronik,2025-12-22,Active
+D0245,P0245,Pacemaker,Medtronic,2023-12-31,Active
+D0246,P0246,Pacemaker,Medtronic,2025-05-01,Active
+D0247,P0247,Loop Recorder,Biotronik,2022-09-04,Active
+D0248,P0248,CRT-D,Biotronik,2024-02-20,Active
+D0249,P0249,Pacemaker,Abbott,2020-04-21,Inactive
+D0250,P0250,Pacemaker,Abbott,2025-06-03,Active
+D0251,P0251,Pacemaker,Medtronic,2022-09-12,Active
+D0252,P0252,Pacemaker,Biotronik,2019-04-12,Active
+D0253,P0253,ICD,Abbott,2024-10-30,Active
+D0254,P0254,Loop Recorder,Abbott,2022-01-06,Active
+D0255,P0255,Loop Recorder,Boston Scientific,2018-06-11,Inactive
+D0256,P0256,ICD,Medtronic,2021-09-16,Active
+D0257,P0257,Pacemaker,Medtronic,2025-07-14,Inactive
+D0258,P0258,Pacemaker,Medtronic,2019-09-03,Active
+D0259,P0259,ICD,Biotronik,2020-11-14,Active
+D0260,P0260,Loop Recorder,Medtronic,2020-12-17,Active
+D0261,P0261,Pacemaker,Abbott,2019-12-17,Active
+D0262,P0262,CRT-D,Biotronik,2025-08-04,Active
+D0263,P0263,Pacemaker,Medtronic,2019-01-25,Active
+D0264,P0264,ICD,Abbott,2025-06-10,Active
+D0265,P0265,CRT-D,Medtronic,2022-11-28,Active
+D0266,P0266,ICD,Medtronic,2021-11-04,Inactive
+D0267,P0267,Loop Recorder,Abbott,2022-06-28,Inactive
+D0268,P0268,Loop Recorder,Biotronik,2025-09-26,Active
+D0269,P0269,ICD,Medtronic,2019-04-09,Active
+D0270,P0270,Loop Recorder,Biotronik,2019-03-01,Inactive
+D0271,P0271,Loop Recorder,Abbott,2020-01-13,Active
+D0272,P0272,ICD,Biotronik,2025-09-04,Inactive
+D0273,P0273,Loop Recorder,Biotronik,2019-04-08,Active
+D0274,P0274,CRT-D,Abbott,2018-09-17,Active
+D0275,P0275,ICD,Abbott,2025-11-25,Active
+D0276,P0276,ICD,Biotronik,2022-11-08,Active
+D0277,P0277,Loop Recorder,Boston Scientific,2025-06-11,Active
+D0278,P0278,ICD,Biotronik,2018-02-17,Inactive
+D0279,P0279,Pacemaker,Biotronik,2019-11-09,Active
+D0280,P0280,CRT-D,Abbott,2020-09-13,Active
+D0281,P0281,ICD,Biotronik,2023-09-08,Inactive
+D0282,P0282,Pacemaker,Biotronik,2020-08-20,Inactive
+D0283,P0283,Loop Recorder,Medtronic,2024-06-05,Inactive
+D0284,P0284,CRT-D,Medtronic,2023-01-06,Inactive
+D0285,P0285,Pacemaker,Medtronic,2025-04-30,Inactive
+D0286,P0286,Pacemaker,Medtronic,2022-08-16,Active
+D0287,P0287,CRT-D,Boston Scientific,2024-10-10,Inactive
+D0288,P0288,CRT-D,Medtronic,2021-10-28,Active
+D0289,P0289,CRT-D,Biotronik,2023-02-05,Active
+D0290,P0290,Pacemaker,Medtronic,2023-01-28,Active
+D0291,P0291,CRT-D,Abbott,2018-01-09,Active
+D0292,P0292,CRT-D,Medtronic,2024-02-22,Active
+D0293,P0293,Loop Recorder,Boston Scientific,2019-11-04,Inactive
+D0294,P0294,CRT-D,Boston Scientific,2019-03-15,Active
+D0295,P0295,Loop Recorder,Boston Scientific,2019-05-10,Inactive
+D0296,P0296,CRT-D,Medtronic,2020-02-20,Inactive
+D0297,P0297,Pacemaker,Biotronik,2018-07-10,Inactive
+D0298,P0298,ICD,Biotronik,2025-05-21,Active
+D0299,P0299,Pacemaker,Biotronik,2023-12-13,Inactive
+D0300,P0300,ICD,Boston Scientific,2023-09-14,Active
+D0301,P0301,Loop Recorder,Abbott,2019-03-01,Inactive
+D0302,P0302,ICD,Abbott,2022-09-11,Inactive
+D0303,P0303,CRT-D,Biotronik,2021-11-05,Active
+D0304,P0304,Loop Recorder,Abbott,2019-07-20,Active
+D0305,P0305,ICD,Boston Scientific,2025-12-25,Active
+D0306,P0306,CRT-D,Abbott,2024-12-31,Active
+D0307,P0307,ICD,Abbott,2025-12-19,Active
+D0308,P0308,Loop Recorder,Biotronik,2021-12-13,Active
+D0309,P0309,Pacemaker,Medtronic,2022-09-27,Active
+D0310,P0310,ICD,Medtronic,2022-04-10,Active
+D0311,P0311,CRT-D,Boston Scientific,2020-03-29,Active
+D0312,P0312,CRT-D,Boston Scientific,2025-08-31,Active
+D0313,P0313,CRT-D,Boston Scientific,2025-09-29,Active
+D0314,P0314,Loop Recorder,Medtronic,2022-01-09,Active
+D0315,P0315,Loop Recorder,Boston Scientific,2025-04-04,Active
+D0316,P0316,Pacemaker,Biotronik,2025-10-09,Inactive
+D0317,P0317,CRT-D,Medtronic,2022-09-03,Active
+D0318,P0318,ICD,Biotronik,2020-10-26,Active
+D0319,P0319,CRT-D,Boston Scientific,2025-02-08,Active
+D0320,P0320,Loop Recorder,Boston Scientific,2021-04-19,Active
+D0321,P0321,ICD,Medtronic,2020-02-05,Inactive
+D0322,P0322,Loop Recorder,Abbott,2018-06-16,Active
+D0323,P0323,ICD,Abbott,2019-06-17,Active
+D0324,P0324,Loop Recorder,Boston Scientific,2021-09-15,Active
+D0325,P0325,CRT-D,Medtronic,2019-09-22,Active
+D0326,P0326,CRT-D,Medtronic,2023-07-03,Active
+D0327,P0327,ICD,Boston Scientific,2023-11-23,Active
+D0328,P0328,ICD,Biotronik,2023-09-01,Inactive
+D0329,P0329,CRT-D,Boston Scientific,2019-01-12,Active
+D0330,P0330,CRT-D,Abbott,2025-06-10,Active
+D0331,P0331,ICD,Biotronik,2021-04-17,Active
+D0332,P0332,CRT-D,Biotronik,2019-04-15,Active
+D0333,P0333,ICD,Medtronic,2025-03-15,Active
+D0334,P0334,Pacemaker,Biotronik,2022-04-12,Active
+D0335,P0335,CRT-D,Medtronic,2024-01-22,Active
+D0336,P0336,Loop Recorder,Biotronik,2023-10-08,Active
+D0337,P0337,ICD,Abbott,2021-04-29,Active
+D0338,P0338,ICD,Medtronic,2019-01-29,Active
+D0339,P0339,ICD,Biotronik,2020-05-13,Active
+D0340,P0340,Loop Recorder,Medtronic,2020-04-22,Active
+D0341,P0341,Loop Recorder,Abbott,2018-04-08,Active
+D0342,P0342,Pacemaker,Medtronic,2018-12-25,Active
+D0343,P0343,Pacemaker,Boston Scientific,2020-10-28,Active
+D0344,P0344,Loop Recorder,Biotronik,2022-07-28,Inactive
+D0345,P0345,CRT-D,Medtronic,2022-11-09,Inactive
+D0346,P0346,Pacemaker,Medtronic,2025-07-20,Active
+D0347,P0347,Pacemaker,Medtronic,2024-07-26,Active
+D0348,P0348,Pacemaker,Abbott,2023-08-22,Active
+D0349,P0349,Pacemaker,Abbott,2024-10-20,Inactive
+D0350,P0350,Loop Recorder,Medtronic,2022-04-12,Inactive
+D0351,P0351,ICD,Boston Scientific,2019-10-03,Inactive
+D0352,P0352,CRT-D,Boston Scientific,2024-02-14,Active
+D0353,P0353,CRT-D,Medtronic,2025-08-06,Active
+D0354,P0354,Pacemaker,Medtronic,2019-05-20,Inactive
+D0355,P0355,Pacemaker,Abbott,2024-01-10,Active
+D0356,P0356,ICD,Biotronik,2021-11-09,Active
+D0357,P0357,ICD,Boston Scientific,2019-10-22,Active
+D0358,P0358,Pacemaker,Boston Scientific,2020-03-06,Active
+D0359,P0359,Loop Recorder,Medtronic,2024-02-27,Active
+D0360,P0360,Pacemaker,Abbott,2025-07-14,Active
+D0361,P0361,Loop Recorder,Abbott,2020-03-19,Active
+D0362,P0362,ICD,Medtronic,2019-06-10,Active
+D0363,P0363,Pacemaker,Boston Scientific,2024-12-12,Active
+D0364,P0364,Loop Recorder,Abbott,2023-06-14,Active
+D0365,P0365,ICD,Abbott,2025-10-11,Active
+D0366,P0366,ICD,Medtronic,2022-10-21,Active
+D0367,P0367,ICD,Biotronik,2020-10-05,Active
+D0368,P0368,ICD,Abbott,2022-01-12,Inactive
+D0369,P0369,Loop Recorder,Abbott,2023-03-11,Active
+D0370,P0370,Pacemaker,Boston Scientific,2023-06-18,Active
+D0371,P0371,ICD,Boston Scientific,2021-02-23,Active
+D0372,P0372,Pacemaker,Medtronic,2025-01-10,Active
+D0373,P0373,Pacemaker,Biotronik,2023-09-09,Active
+D0374,P0374,CRT-D,Biotronik,2018-05-31,Active
+D0375,P0375,Loop Recorder,Boston Scientific,2022-02-07,Active
+D0376,P0376,Loop Recorder,Medtronic,2019-07-03,Inactive
+D0377,P0377,Pacemaker,Boston Scientific,2022-01-30,Active
+D0378,P0378,ICD,Biotronik,2023-10-07,Active
+D0379,P0379,ICD,Biotronik,2020-01-04,Active
+D0380,P0380,ICD,Biotronik,2018-06-15,Active
+D0381,P0381,CRT-D,Abbott,2018-09-15,Active
+D0382,P0382,ICD,Abbott,2018-06-25,Inactive
+D0383,P0383,Loop Recorder,Medtronic,2023-04-08,Active
+D0384,P0384,CRT-D,Medtronic,2025-04-10,Active
+D0385,P0385,ICD,Biotronik,2020-12-14,Inactive
+D0386,P0386,Pacemaker,Abbott,2022-02-05,Inactive
+D0387,P0387,Loop Recorder,Abbott,2020-07-01,Active
+D0388,P0388,Loop Recorder,Medtronic,2023-06-18,Active
+D0389,P0389,ICD,Boston Scientific,2022-12-07,Active
+D0390,P0390,CRT-D,Boston Scientific,2023-10-09,Active
+D0391,P0391,ICD,Abbott,2020-02-05,Active
+D0392,P0392,ICD,Biotronik,2025-05-31,Active
+D0393,P0393,Loop Recorder,Biotronik,2019-04-10,Inactive
+D0394,P0394,ICD,Biotronik,2020-05-13,Active
+D0395,P0395,Pacemaker,Boston Scientific,2020-09-25,Active
+D0396,P0396,Pacemaker,Boston Scientific,2019-07-06,Active
+D0397,P0397,CRT-D,Boston Scientific,2019-11-13,Inactive
+D0398,P0398,Pacemaker,Abbott,2024-09-20,Active
+D0399,P0399,Loop Recorder,Biotronik,2020-06-06,Inactive
+D0400,P0400,ICD,Biotronik,2019-11-30,Active
+D0401,P0401,ICD,Abbott,2024-07-14,Active
+D0402,P0402,CRT-D,Biotronik,2025-09-09,Active
+D0403,P0403,Loop Recorder,Biotronik,2020-07-30,Active
+D0404,P0404,Pacemaker,Boston Scientific,2019-03-21,Inactive
+D0405,P0405,Pacemaker,Boston Scientific,2019-09-05,Inactive
+D0406,P0406,Pacemaker,Medtronic,2024-11-23,Active
+D0407,P0407,ICD,Medtronic,2023-05-30,Inactive
+D0408,P0408,Loop Recorder,Abbott,2023-11-09,Active
+D0409,P0409,Loop Recorder,Boston Scientific,2025-10-28,Inactive
+D0410,P0410,CRT-D,Medtronic,2022-04-11,Inactive
+D0411,P0411,CRT-D,Biotronik,2019-07-03,Active
+D0412,P0412,CRT-D,Biotronik,2018-12-10,Active
+D0413,P0413,Pacemaker,Medtronic,2020-02-14,Active
+D0414,P0414,Pacemaker,Biotronik,2023-10-30,Active
+D0415,P0415,CRT-D,Biotronik,2025-09-18,Active
+D0416,P0416,ICD,Biotronik,2019-03-13,Active
+D0417,P0417,Loop Recorder,Abbott,2020-12-06,Active
+D0418,P0418,Loop Recorder,Boston Scientific,2025-08-19,Inactive
+D0419,P0419,Loop Recorder,Boston Scientific,2024-03-11,Active
+D0420,P0420,Loop Recorder,Abbott,2024-04-09,Active
+D0421,P0421,CRT-D,Biotronik,2024-06-24,Active
+D0422,P0422,Pacemaker,Boston Scientific,2025-05-24,Inactive
+D0423,P0423,ICD,Medtronic,2025-11-04,Active
+D0424,P0424,Loop Recorder,Abbott,2023-09-14,Active
+D0425,P0425,Loop Recorder,Medtronic,2019-10-21,Active
+D0426,P0426,Loop Recorder,Biotronik,2019-08-19,Active
+D0427,P0427,CRT-D,Boston Scientific,2018-09-20,Active
+D0428,P0428,Pacemaker,Biotronik,2018-11-24,Inactive
+D0429,P0429,CRT-D,Medtronic,2024-11-19,Active
+D0430,P0430,Loop Recorder,Biotronik,2025-03-07,Active
+D0431,P0431,CRT-D,Boston Scientific,2020-04-06,Active
+D0432,P0432,ICD,Boston Scientific,2024-09-21,Active
+D0433,P0433,ICD,Medtronic,2022-01-13,Active
+D0434,P0434,CRT-D,Biotronik,2018-12-22,Active
+D0435,P0435,Loop Recorder,Biotronik,2025-07-05,Active
+D0436,P0436,Pacemaker,Medtronic,2023-10-22,Active
+D0437,P0437,CRT-D,Abbott,2024-03-01,Active
+D0438,P0438,ICD,Boston Scientific,2021-02-06,Inactive
+D0439,P0439,Pacemaker,Abbott,2022-07-13,Active
+D0440,P0440,Pacemaker,Medtronic,2022-07-26,Active
+D0441,P0441,Pacemaker,Abbott,2021-10-24,Active
+D0442,P0442,Loop Recorder,Biotronik,2025-10-14,Inactive
+D0443,P0443,CRT-D,Biotronik,2020-09-23,Inactive
+D0444,P0444,Pacemaker,Biotronik,2024-07-31,Active
+D0445,P0445,Pacemaker,Biotronik,2020-11-22,Active
+D0446,P0446,ICD,Abbott,2025-08-04,Inactive
+D0447,P0447,Pacemaker,Abbott,2021-12-17,Active
+D0448,P0448,Pacemaker,Biotronik,2021-03-22,Active
+D0449,P0449,ICD,Biotronik,2018-11-08,Active
+D0450,P0450,ICD,Abbott,2021-12-19,Active
+D0451,P0451,ICD,Biotronik,2025-08-30,Active
+D0452,P0452,ICD,Abbott,2020-08-19,Active
+D0453,P0453,ICD,Boston Scientific,2020-07-27,Active
+D0454,P0454,Pacemaker,Medtronic,2019-10-01,Active
+D0455,P0455,Loop Recorder,Medtronic,2025-07-31,Active
+D0456,P0456,CRT-D,Abbott,2023-05-30,Inactive
+D0457,P0457,CRT-D,Biotronik,2024-06-11,Active
+D0458,P0458,CRT-D,Biotronik,2023-09-25,Active
+D0459,P0459,ICD,Medtronic,2024-06-20,Inactive
+D0460,P0460,Pacemaker,Abbott,2023-05-14,Inactive
+D0461,P0461,ICD,Biotronik,2025-09-12,Active
+D0462,P0462,Loop Recorder,Abbott,2025-10-31,Active
+D0463,P0463,ICD,Biotronik,2018-02-18,Active
+D0464,P0464,CRT-D,Abbott,2021-08-25,Active
+D0465,P0465,CRT-D,Boston Scientific,2024-02-25,Active
+D0466,P0466,CRT-D,Abbott,2023-04-15,Active
+D0467,P0467,Loop Recorder,Boston Scientific,2023-08-05,Inactive
+D0468,P0468,CRT-D,Abbott,2025-11-10,Inactive
+D0469,P0469,Loop Recorder,Boston Scientific,2021-02-19,Active
+D0470,P0470,ICD,Medtronic,2024-06-16,Active
+D0471,P0471,Loop Recorder,Biotronik,2020-08-23,Active
+D0472,P0472,ICD,Biotronik,2019-08-21,Active
+D0473,P0473,Loop Recorder,Biotronik,2019-12-25,Active
+D0474,P0474,CRT-D,Biotronik,2025-01-27,Active
+D0475,P0475,Pacemaker,Biotronik,2020-10-24,Active
+D0476,P0476,ICD,Medtronic,2025-09-29,Active
+D0477,P0477,Loop Recorder,Medtronic,2020-11-07,Inactive
+D0478,P0478,CRT-D,Abbott,2021-10-02,Active
+D0479,P0479,CRT-D,Abbott,2024-04-14,Active
+D0480,P0480,Pacemaker,Abbott,2022-08-14,Active
+D0481,P0481,ICD,Abbott,2024-06-20,Active
+D0482,P0482,Loop Recorder,Biotronik,2021-08-24,Active
+D0483,P0483,CRT-D,Biotronik,2022-04-10,Active
+D0484,P0484,CRT-D,Biotronik,2019-11-18,Inactive
+D0485,P0485,Pacemaker,Boston Scientific,2018-10-20,Active
+D0486,P0486,CRT-D,Abbott,2020-07-23,Active
+D0487,P0487,CRT-D,Biotronik,2025-12-19,Active
+D0488,P0488,CRT-D,Biotronik,2022-12-28,Inactive
+D0489,P0489,ICD,Medtronic,2019-11-17,Active
+D0490,P0490,CRT-D,Medtronic,2020-08-19,Active
+D0491,P0491,Loop Recorder,Medtronic,2019-11-15,Active
+D0492,P0492,Loop Recorder,Medtronic,2018-09-19,Active
+D0493,P0493,Pacemaker,Medtronic,2022-06-15,Active
+D0494,P0494,ICD,Medtronic,2024-12-06,Inactive
+D0495,P0495,ICD,Boston Scientific,2021-06-21,Active
+D0496,P0496,ICD,Boston Scientific,2022-12-21,Active
+D0497,P0497,Pacemaker,Abbott,2018-04-28,Active
+D0498,P0498,Loop Recorder,Abbott,2023-05-05,Inactive
+D0499,P0499,ICD,Biotronik,2019-07-08,Inactive
+D0500,P0500,CRT-D,Abbott,2023-11-15,Inactive
